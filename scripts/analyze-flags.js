@@ -6,7 +6,7 @@ const sharp = require('sharp');
 const countries = require('country-list');
 
 const SVG_DIR = path.join(__dirname, '..', 'country-flags', 'svg');
-const OUTPUT = path.join(__dirname, '..', 'public', 'flags-data.json');
+const OUTPUT = path.join(__dirname, '..', 'docs', 'flags-data.json');
 
 // Quantize an RGB triplet into a bucket key using the given tolerance.
 // We floor each channel to the nearest multiple of `tolerance`, producing a

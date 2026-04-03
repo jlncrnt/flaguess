@@ -4,7 +4,7 @@
     {
       "name": "flaguess",
       "runtimeExecutable": "/opt/homebrew/bin/node",
-      "runtimeArgs": ["-e", "require('http').createServer((req,res)=>{const fs=require('fs'),path=require('path');let f=path.join('/Users/julien/Desktop/flaguess/public',req.url==='/'?'index.html':req.url);fs.readFile(f,(e,d)=>{if(e){res.writeHead(404);res.end();}else{const ext=f.split('.').pop();const t={'html':'text/html','json':'application/json','js':'text/javascript','css':'text/css'}[ext]||'text/plain';res.writeHead(200,{'Content-Type':t});res.end(d);}});}).listen(3333)"],
+      "runtimeArgs": ["-e", "require('http').createServer((req,res)=>{const fs=require('fs'),path=require('path');let f=path.join('/Users/julien/Desktop/flaguess/docs',req.url==='/'?'index.html':req.url);fs.readFile(f,(e,d)=>{if(e){res.writeHead(404);res.end();}else{const ext=f.split('.').pop();const t={'html':'text/html','json':'application/json','js':'text/javascript','css':'text/css'}[ext]||'text/plain';res.writeHead(200,{'Content-Type':t});res.end(d);}});}).listen(3333)"],
       "port": 3333
     }
   ]
