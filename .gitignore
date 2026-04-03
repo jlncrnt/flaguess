@@ -1,0 +1,5 @@
+node_modules/
+pat.txt
+country-flags/
+.DS_Store
+.claude/settings.local.json

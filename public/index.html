@@ -1,0 +1,508 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>FlagGuess</title>
+<style>
+  /* ── Reset & base ─────────────────────────────────────────── */
+  *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+  :root {
+    --bg: #0f1117;
+    --surface: #1c1e26;
+    --surface2: #252831;
+    --border: #33364a;
+    --text: #e8eaf0;
+    --text-muted: #7a7e96;
+    --correct: #22c55e;
+    --wrong: #ef4444;
+    --accent: #6366f1;
+    --radius: 14px;
+  }
+
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+    background: var(--bg);
+    color: var(--text);
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 24px 16px 48px;
+  }
+
+  /* ── Header / HUD ─────────────────────────────────────────── */
+  #hud {
+    width: 100%;
+    max-width: 520px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 28px;
+  }
+
+  #hud .round-label {
+    font-size: 0.85rem;
+    color: var(--text-muted);
+    text-transform: uppercase;
+    letter-spacing: .08em;
+  }
+
+  #hud .round-value {
+    font-size: 1.1rem;
+    font-weight: 700;
+  }
+
+  #progress-bar-wrap {
+    flex: 1;
+    margin: 0 16px;
+    height: 5px;
+    background: var(--surface2);
+    border-radius: 99px;
+    overflow: hidden;
+  }
+
+  #progress-bar {
+    height: 100%;
+    background: var(--accent);
+    border-radius: 99px;
+    transition: width 0.4s ease;
+  }
+
+  #score-display {
+    font-size: 1rem;
+    font-weight: 700;
+    min-width: 48px;
+    text-align: right;
+  }
+
+  /* ── Game area ────────────────────────────────────────────── */
+  #game {
+    width: 100%;
+    max-width: 520px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 28px;
+  }
+
+  /* ── Pie chart ────────────────────────────────────────────── */
+  #chart-wrap {
+    position: relative;
+    width: min(280px, 72vw);
+    aspect-ratio: 1;
+  }
+
+  #pie-svg {
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
+    filter: drop-shadow(0 8px 32px rgba(0,0,0,.5));
+    transition: transform 0.3s ease;
+  }
+
+  /* ── Answer grid ──────────────────────────────────────────── */
+  #choices {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 12px;
+    width: 100%;
+  }
+
+  .choice-btn {
+    position: relative;
+    background: var(--surface);
+    border: 2px solid var(--border);
+    color: var(--text);
+    font-size: 0.95rem;
+    font-weight: 500;
+    padding: 16px 14px;
+    border-radius: var(--radius);
+    cursor: pointer;
+    text-align: left;
+    line-height: 1.3;
+    transition: background 0.15s, border-color 0.15s, transform 0.1s;
+    -webkit-tap-highlight-color: transparent;
+  }
+
+  .choice-btn .key-hint {
+    position: absolute;
+    top: 8px;
+    right: 10px;
+    font-size: 0.7rem;
+    color: var(--text-muted);
+    font-weight: 400;
+  }
+
+  .choice-btn:hover:not(:disabled) {
+    background: var(--surface2);
+    border-color: var(--accent);
+  }
+
+  .choice-btn:active:not(:disabled) {
+    transform: scale(0.97);
+  }
+
+  .choice-btn.correct {
+    background: rgba(34,197,94,.15);
+    border-color: var(--correct);
+    color: var(--correct);
+    animation: flash-correct 0.35s ease;
+  }
+
+  .choice-btn.wrong {
+    background: rgba(239,68,68,.15);
+    border-color: var(--wrong);
+    color: var(--wrong);
+    animation: flash-wrong 0.35s ease;
+  }
+
+  @keyframes flash-correct {
+    0%   { background: rgba(34,197,94,.45); }
+    100% { background: rgba(34,197,94,.15); }
+  }
+
+  @keyframes flash-wrong {
+    0%   { background: rgba(239,68,68,.45); }
+    100% { background: rgba(239,68,68,.15); }
+  }
+
+  /* Also highlight the correct answer when player is wrong */
+  .choice-btn.reveal-correct {
+    background: rgba(34,197,94,.12);
+    border-color: var(--correct);
+  }
+
+  /* ── Results screen ───────────────────────────────────────── */
+  #results {
+    display: none;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+    width: 100%;
+    max-width: 520px;
+    text-align: center;
+  }
+
+  #results h2 {
+    font-size: 1.8rem;
+    font-weight: 800;
+  }
+
+  #results .final-score {
+    font-size: 4rem;
+    font-weight: 900;
+    line-height: 1;
+  }
+
+  #results .score-label {
+    color: var(--text-muted);
+    font-size: 0.9rem;
+  }
+
+  #replay-btn {
+    margin-top: 8px;
+    background: var(--accent);
+    color: #fff;
+    border: none;
+    font-size: 1rem;
+    font-weight: 700;
+    padding: 14px 40px;
+    border-radius: var(--radius);
+    cursor: pointer;
+    transition: opacity 0.15s, transform 0.1s;
+  }
+
+  #replay-btn:hover { opacity: 0.85; }
+  #replay-btn:active { transform: scale(0.97); }
+
+  /* ── Error / loading ──────────────────────────────────────── */
+  #error-msg {
+    color: var(--wrong);
+    text-align: center;
+    padding: 40px 0;
+  }
+</style>
+</head>
+<body>
+
+<!-- HUD: round indicator + progress bar + score -->
+<div id="hud" aria-live="polite">
+  <div>
+    <div class="round-label">Round</div>
+    <div class="round-value" id="round-display">1 / 10</div>
+  </div>
+  <div id="progress-bar-wrap">
+    <div id="progress-bar" style="width:10%"></div>
+  </div>
+  <div id="score-display">0 pts</div>
+</div>
+
+<!-- Game screen -->
+<div id="game">
+  <div id="chart-wrap">
+    <svg id="pie-svg" viewBox="-1 -1 2 2" xmlns="http://www.w3.org/2000/svg"></svg>
+  </div>
+  <div id="choices" role="list"></div>
+</div>
+
+<!-- Results screen (hidden until game end) -->
+<div id="results" role="main">
+  <h2>Game Over</h2>
+  <div class="final-score" id="final-score">0</div>
+  <div class="score-label" id="final-label">out of 10 correct</div>
+  <button id="replay-btn">Play Again</button>
+</div>
+
+<div id="error-msg" hidden></div>
+
+<script>
+// ═══════════════════════════════════════════════════════════════
+// 1. DATA LOADING
+// ═══════════════════════════════════════════════════════════════
+
+async function loadData() {
+  const res = await fetch('flags-data.json');
+  if (!res.ok) throw new Error(`HTTP ${res.status} loading flags-data.json`);
+  return res.json();
+}
+
+// ═══════════════════════════════════════════════════════════════
+// 2. PIE CHART RENDERING
+// ═══════════════════════════════════════════════════════════════
+
+// Convert polar (angle in radians) to SVG unit-circle Cartesian coords.
+function polarToXY(angle) {
+  return [Math.cos(angle - Math.PI / 2), Math.sin(angle - Math.PI / 2)];
+}
+
+/**
+ * Render a pie chart into #pie-svg.
+ * @param {Array<{hex:string, ratio:number}>} colors - sorted largest-first
+ */
+function renderPie(colors) {
+  const svg = document.getElementById('pie-svg');
+  svg.innerHTML = '';
+
+  // If only one color, draw a full circle (arc commands break at 360°).
+  if (colors.length === 1) {
+    const circle = document.createElementNS('http://www.w3.org/2000/svg', 'circle');
+    circle.setAttribute('cx', '0');
+    circle.setAttribute('cy', '0');
+    circle.setAttribute('r', '1');
+    circle.setAttribute('fill', colors[0].hex);
+    svg.appendChild(circle);
+    return;
+  }
+
+  let startAngle = 0;
+
+  for (const color of colors) {
+    const sliceAngle = color.ratio * 2 * Math.PI;
+    const endAngle = startAngle + sliceAngle;
+
+    const [sx, sy] = polarToXY(startAngle);
+    const [ex, ey] = polarToXY(endAngle);
+
+    // largeArcFlag = 1 if slice is more than half the circle
+    const largeArc = sliceAngle > Math.PI ? 1 : 0;
+
+    // SVG arc path on the unit circle (radius = 1, centered at 0,0)
+    const d = [
+      `M 0 0`,
+      `L ${sx.toFixed(6)} ${sy.toFixed(6)}`,
+      `A 1 1 0 ${largeArc} 1 ${ex.toFixed(6)} ${ey.toFixed(6)}`,
+      `Z`
+    ].join(' ');
+
+    const path = document.createElementNS('http://www.w3.org/2000/svg', 'path');
+    path.setAttribute('d', d);
+    path.setAttribute('fill', color.hex);
+    svg.appendChild(path);
+
+    startAngle = endAngle;
+  }
+}
+
+// ═══════════════════════════════════════════════════════════════
+// 3. GAME LOGIC
+// ═══════════════════════════════════════════════════════════════
+
+const ROUNDS = 10;
+
+let allFlags = [];      // full dataset
+let roundQueue = [];    // shuffled flag indices for this game
+let currentRound = 0;
+let score = 0;
+let answered = false;   // prevent double-clicking after reveal
+
+/** Fisher-Yates shuffle (in-place, returns the array). */
+function shuffle(arr) {
+  for (let i = arr.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [arr[i], arr[j]] = [arr[j], arr[i]];
+  }
+  return arr;
+}
+
+/** Pick `n` random elements from arr, excluding indices in `exclude`. */
+function pickRandom(arr, n, excludeIndices) {
+  const pool = arr
+    .map((_, i) => i)
+    .filter(i => !excludeIndices.has(i));
+  shuffle(pool);
+  return pool.slice(0, n).map(i => arr[i]);
+}
+
+function startGame() {
+  currentRound = 0;
+  score = 0;
+
+  // Build a shuffled queue of ROUNDS unique flags.
+  const indices = allFlags.map((_, i) => i);
+  shuffle(indices);
+  roundQueue = indices.slice(0, ROUNDS);
+
+  document.getElementById('results').style.display = 'none';
+  document.getElementById('game').style.display = 'flex';
+  updateHUD();
+  nextRound();
+}
+
+function updateHUD() {
+  document.getElementById('round-display').textContent =
+    `${currentRound + 1} / ${ROUNDS}`;
+  document.getElementById('progress-bar').style.width =
+    `${((currentRound + 1) / ROUNDS) * 100}%`;
+  document.getElementById('score-display').textContent =
+    `${score} pt${score !== 1 ? 's' : ''}`;
+}
+
+function nextRound() {
+  answered = false;
+  updateHUD();
+
+  const correctIdx = roundQueue[currentRound];
+  const correct = allFlags[correctIdx];
+
+  // Render the pie chart clue.
+  renderPie(correct.colors);
+
+  // 3 decoys — not the correct flag.
+  const decoys = pickRandom(allFlags, 3, new Set([correctIdx]));
+  const choices = shuffle([correct, ...decoys]);
+
+  // Render choice buttons.
+  const container = document.getElementById('choices');
+  container.innerHTML = '';
+
+  choices.forEach((flag, i) => {
+    const btn = document.createElement('button');
+    btn.className = 'choice-btn';
+    btn.setAttribute('role', 'listitem');
+    btn.dataset.code = flag.code;
+    btn.innerHTML = `${flag.name}<span class="key-hint">${i + 1}</span>`;
+    btn.addEventListener('click', () => handleAnswer(flag.code === correct.code, btn, correct.code));
+    container.appendChild(btn);
+  });
+}
+
+function handleAnswer(isCorrect, clickedBtn, correctCode) {
+  if (answered) return;
+  answered = true;
+
+  if (isCorrect) {
+    score++;
+    clickedBtn.classList.add('correct');
+  } else {
+    clickedBtn.classList.add('wrong');
+    // Reveal the correct button.
+    const allBtns = document.querySelectorAll('.choice-btn');
+    for (const btn of allBtns) {
+      if (btn.dataset.code === correctCode) {
+        btn.classList.add('reveal-correct');
+        break;
+      }
+    }
+  }
+
+  // Disable all buttons to prevent further interaction.
+  for (const btn of document.querySelectorAll('.choice-btn')) {
+    btn.disabled = true;
+  }
+
+  // Update score display immediately.
+  document.getElementById('score-display').textContent =
+    `${score} pt${score !== 1 ? 's' : ''}`;
+
+  // Advance after a short pause so the player can see the feedback.
+  setTimeout(() => {
+    currentRound++;
+    if (currentRound >= ROUNDS) {
+      showResults();
+    } else {
+      nextRound();
+    }
+  }, 1100);
+}
+
+function showResults() {
+  document.getElementById('game').style.display = 'none';
+
+  const resultsEl = document.getElementById('results');
+  resultsEl.style.display = 'flex';
+
+  document.getElementById('final-score').textContent = score;
+  document.getElementById('final-label').textContent =
+    `out of ${ROUNDS} correct`;
+
+  // Update progress bar to 100%
+  document.getElementById('progress-bar').style.width = '100%';
+  document.getElementById('round-display').textContent = `${ROUNDS} / ${ROUNDS}`;
+  document.getElementById('score-display').textContent =
+    `${score} pt${score !== 1 ? 's' : ''}`;
+}
+
+// ═══════════════════════════════════════════════════════════════
+// 4. KEYBOARD SUPPORT  (keys 1–4 pick answer)
+// ═══════════════════════════════════════════════════════════════
+
+document.addEventListener('keydown', e => {
+  const n = parseInt(e.key, 10);
+  if (n >= 1 && n <= 4) {
+    const btn = document.querySelectorAll('.choice-btn')[n - 1];
+    if (btn && !btn.disabled) btn.click();
+  }
+  // Enter on results screen → replay
+  if (e.key === 'Enter') {
+    const replayBtn = document.getElementById('replay-btn');
+    if (document.getElementById('results').style.display !== 'none') {
+      replayBtn.click();
+    }
+  }
+});
+
+document.getElementById('replay-btn').addEventListener('click', startGame);
+
+// ═══════════════════════════════════════════════════════════════
+// 5. INIT
+// ═══════════════════════════════════════════════════════════════
+
+loadData()
+  .then(data => {
+    if (!data || data.length === 0) throw new Error('flags-data.json is empty');
+    allFlags = data;
+    startGame();
+  })
+  .catch(err => {
+    const el = document.getElementById('error-msg');
+    el.hidden = false;
+    el.textContent = `Failed to load game data: ${err.message}`;
+    document.getElementById('game').style.display = 'none';
+    document.getElementById('hud').style.display = 'none';
+    console.error(err);
+  });
+</script>
+</body>
+</html>

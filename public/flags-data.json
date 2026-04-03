@@ -1,0 +1,5240 @@
+[
+  {
+    "code": "ad",
+    "name": "Andorra",
+    "colors": [
+      {
+        "hex": "#0018A8",
+        "ratio": 0.3507
+      },
+      {
+        "hex": "#D0103A",
+        "ratio": 0.3507
+      },
+      {
+        "hex": "#FEDF00",
+        "ratio": 0.2852
+      },
+      {
+        "hex": "#C3AF7C",
+        "ratio": 0.0135
+      }
+    ]
+  },
+  {
+    "code": "ae",
+    "name": "United Arab Emirates (the)",
+    "colors": [
+      {
+        "hex": "#00843D",
+        "ratio": 0.2531
+      },
+      {
+        "hex": "#000000",
+        "ratio": 0.2531
+      },
+      {
+        "hex": "#FFFFFF",
+        "ratio": 0.2473
+      },
+      {
+        "hex": "#C8102E",
+        "ratio": 0.2465
+      }
+    ]
+  },
+  {
+    "code": "af",
+    "name": "Afghanistan",
+    "colors": [
+      {
+        "hex": "#000000",
+        "ratio": 0.3663
+      },
+      {
+        "hex": "#007A36",
+        "ratio": 0.3645
+      },
+      {
+        "hex": "#D32011",
+        "ratio": 0.2418
+      },
+      {
+        "hex": "#E7867E",
+        "ratio": 0.0148
+      },
+      {
+        "hex": "#FFFDFD",
+        "ratio": 0.0127
+      }
+    ]
+  },
+  {
+    "code": "ag",
+    "name": "Antigua and Barbuda",
+    "colors": [
+      {
+        "hex": "#CE1126",
+        "ratio": 0.5025
+      },
+      {
+        "hex": "#000000",
+        "ratio": 0.2608
+      },
+      {
+        "hex": "#0072C6",
+        "ratio": 0.1087
+      },
+      {
+        "hex": "#FFFFFF",
+        "ratio": 0.0772
+      },
+      {
+        "hex": "#FCD116",
+        "ratio": 0.0508
+      }
+    ]
+  },
+  {
+    "code": "ai",
+    "name": "Anguilla",
+    "colors": [
+      {
+        "hex": "#012169",
+        "ratio": 0.8107
+      },
+      {
+        "hex": "#FFFFFE",
+        "ratio": 0.1123
+      },
+      {
+        "hex": "#C8102E",
+        "ratio": 0.077
+      }
+    ]
+  },
+  {
+    "code": "al",
+    "name": "Albania",
+    "colors": [
+      {
+        "hex": "#FF0000",
+        "ratio": 0.89
+      },
+      {
+        "hex": "#010000",
+        "ratio": 0.11
+      }
+    ]
+  },
+  {
+    "code": "am",
+    "name": "Armenia",
+    "colors": [
+      {
+        "hex": "#D90012",
+        "ratio": 0.3359
+      },
+      {
+        "hex": "#F2A800",
+        "ratio": 0.3359
+      },
+      {
+        "hex": "#0033A0",
+        "ratio": 0.3283
+      }
+    ]
+  },
+  {
+    "code": "ao",
+    "name": "Angola",
+    "colors": [
+      {
+        "hex": "#CC092F",
+        "ratio": 0.4862
+      },
+      {
+        "hex": "#000000",
+        "ratio": 0.4806
+      },
+      {
+        "hex": "#FFCB00",
+        "ratio": 0.0332
+      }
+    ]
+  },
+  {
+    "code": "aq",
+    "name": "Antarctica",
+    "colors": [
+      {
+        "hex": "#072B5F",
+        "ratio": 0.7832
+      },
+      {
+        "hex": "#FFFFFF",
+        "ratio": 0.1881
+      },
+      {
+        "hex": "#8193AE",
+        "ratio": 0.0158
+      },
+      {
+        "hex": "#20416F",
+        "ratio": 0.0129
+      }
+    ]
+  },
+  {
+    "code": "ar",
+    "name": "Argentina",
+    "colors": [
+      {
+        "hex": "#74ACDF",
+        "ratio": 0.6834
+      },
+      {
+        "hex": "#FFFFFF",
+        "ratio": 0.3011
+      },
+      {
+        "hex": "#D1E3F4",
+        "ratio": 0.0155
+      }
+    ]
+  },
+  {
+    "code": "as",
+    "name": "American Samoa",
+    "colors": [
+      {
+        "hex": "#000066",
+        "ratio": 0.5556
+      },
+      {
+        "hex": "#FFFFFF",
+        "ratio": 0.3481
+      },
+      {
+        "hex": "#BD1021",
+        "ratio": 0.0962
+      }
+    ]
+  },
+  {
+    "code": "at",
+    "name": "Austria",
+    "colors": [
+      {
+        "hex": "#ED2939",
+        "ratio": 0.6639
+      },
+      {
+        "hex": "#FFFFFF",
+        "ratio": 0.3212
+      },
+      {
+        "hex": "#F9B9BE",
+        "ratio": 0.0149
+      }
+    ]
+  },
+  {
+    "code": "au",
+    "name": "Australia",
+    "colors": [
+      {
+        "hex": "#012169",
+        "ratio": 0.8267
+      },
+      {
+        "hex": "#FFFEFF",
+        "ratio": 0.0944
+      },
+      {
+        "hex": "#E4002B",
+        "ratio": 0.0789
+      }
+    ]
+  },
+  {
+    "code": "aw",
+    "name": "Aruba",
+    "colors": [
+      {
+        "hex": "#418FDE",
+        "ratio": 0.898
+      },
+      {
+        "hex": "#FFD100",
+        "ratio": 0.102
+      }
+    ]
+  },
+  {
+    "code": "ax",
+    "name": "Åland Islands",
+    "colors": [
+      {
+        "hex": "#0064AD",
+        "ratio": 0.5633
+      },
+      {
+        "hex": "#FFD300",
+        "ratio": 0.2273
+      },
+      {
+        "hex": "#DA0E15",
+        "ratio": 0.1792
+      },
+      {
+        "hex": "#0062AD",
+        "ratio": 0.016
+      },
+      {
+        "hex": "#F49607",
+        "ratio": 0.0142
+      }
+    ]
+  },
+  {
+    "code": "az",
+    "name": "Azerbaijan",
+    "colors": [
+      {
+        "hex": "#00B9E4",
+        "ratio": 0.3408
+      },
+      {
+        "hex": "#3F9C35",
+        "ratio": 0.3408
+      },
+      {
+        "hex": "#ED2939",
+        "ratio": 0.3049
+      },
+      {
+        "hex": "#FFFEFE",
+        "ratio": 0.0135
+      }
+    ]
+  },
+  {
+    "code": "ba",
+    "name": "Bosnia and Herzegovina",
+    "colors": [
+      {
+        "hex": "#002395",
+        "ratio": 0.7168
+      },
+      {
+        "hex": "#FECB00",
+        "ratio": 0.2522
+      },
+      {
+        "hex": "#FEFEFF",
+        "ratio": 0.0309
+      }
+    ]
+  },
+  {
+    "code": "bb",
+    "name": "Barbados",
+    "colors": [
+      {
+        "hex": "#00267F",
+        "ratio": 0.668
+      },
+      {
+        "hex": "#FFC726",
+        "ratio": 0.2889
+      },
+      {
+        "hex": "#000000",
+        "ratio": 0.033
+      },
+      {
+        "hex": "#404E69",
+        "ratio": 0.0101
+      }
+    ]
+  },
+  {
+    "code": "bd",
+    "name": "Bangladesh",
+    "colors": [
+      {
+        "hex": "#006A4E",
+        "ratio": 0.7966
+      },
+      {
+        "hex": "#F42A41",
+        "ratio": 0.2034
+      }
+    ]
+  },
+  {
+    "code": "be",
+    "name": "Belgium",
+    "colors": [
+      {
+        "hex": "#FAE042",
+        "ratio": 0.3367
+      },
+      {
+        "hex": "#000000",
+        "ratio": 0.3316
+      },
+      {
+        "hex": "#ED2939",
+        "ratio": 0.3316
+      }
+    ]
+  },
+  {
+    "code": "bf",
+    "name": "Burkina Faso",
+    "colors": [
+      {
+        "hex": "#009E49",
+        "ratio": 0.4944
+      },
+      {
+        "hex": "#EF2B2D",
+        "ratio": 0.487
+      },
+      {
+        "hex": "#FCD116",
+        "ratio": 0.0186
+      }
+    ]
+  },
+  {
+    "code": "bg",
+    "name": "Bulgaria",
+    "colors": [
+      {
+        "hex": "#FFFFFF",
+        "ratio": 0.3381
+      },
+      {
+        "hex": "#D62612",
+        "ratio": 0.3347
+      },
+      {
+        "hex": "#00966E",
+        "ratio": 0.3272
+      }
+    ]
+  },
+  {
+    "code": "bh",
+    "name": "Bahrain",
+    "colors": [
+      {
+        "hex": "#CE1126",
+        "ratio": 0.6743
+      },
+      {
+        "hex": "#FFFFFF",
+        "ratio": 0.3257
+      }
+    ]
+  },
+  {
+    "code": "bi",
+    "name": "Burundi",
+    "colors": [
+      {
+        "hex": "#FFFFFF",
+        "ratio": 0.3447
+      },
+      {
+        "hex": "#1EB53A",
+        "ratio": 0.3362
+      },
+      {
+        "hex": "#CE1126",
+        "ratio": 0.3084
+      },
+      {
+        "hex": "#1CB337",
+        "ratio": 0.0107
+      }
+    ]
+  },
+  {
+    "code": "bj",
+    "name": "Benin",
+    "colors": [
+      {
+        "hex": "#008751",
+        "ratio": 0.4018
+      },
+      {
+        "hex": "#E8112D",
+        "ratio": 0.3004
+      },
+      {
+        "hex": "#FCD116",
+        "ratio": 0.2978
+      }
+    ]
+  },
+  {
+    "code": "bl",
+    "name": "Saint Barthélemy",
+    "colors": [
+      {
+        "hex": "#FFFFFF",
+        "ratio": 0.335
+      },
+      {
+        "hex": "#EC1920",
+        "ratio": 0.335
+      },
+      {
+        "hex": "#051440",
+        "ratio": 0.3299
+      }
+    ]
+  },
+  {
+    "code": "bm",
+    "name": "Bermuda",
+    "colors": [
+      {
+        "hex": "#C8102E",
+        "ratio": 0.7786
+      },
+      {
+        "hex": "#FFFEFE",
+        "ratio": 0.122
+      },
+      {
+        "hex": "#012169",
+        "ratio": 0.0667
+      },
+      {
+        "hex": "#C50D2C",
+        "ratio": 0.0196
+      },
+      {
+        "hex": "#2F8F22",
+        "ratio": 0.0131
+      }
+    ]
+  },
+  {
+    "code": "bn",
+    "name": "Brunei Darussalam",
+    "colors": [
+      {
+        "hex": "#F7E017",
+        "ratio": 0.5756
+      },
+      {
+        "hex": "#FFFFFF",
+        "ratio": 0.2196
+      },
+      {
+        "hex": "#000000",
+        "ratio": 0.1778
+      },
+      {
+        "hex": "#CF0F25",
+        "ratio": 0.0269
+      }
+    ]
+  },
+  {
+    "code": "bo",
+    "name": "Bolivia (Plurinational State of)",
+    "colors": [
+      {
+        "hex": "#D32011",
+        "ratio": 0.3624
+      },
+      {
+        "hex": "#00702D",
+        "ratio": 0.3603
+      },
+      {
+        "hex": "#F0E53C",
+        "ratio": 0.2772
+      }
+    ]
+  },
+  {
+    "code": "bq",
+    "name": "Bonaire, Sint Eustatius and Saba",
+    "colors": [
+      {
+        "hex": "#21468B",
+        "ratio": 0.3381
+      },
+      {
+        "hex": "#AE1C28",
+        "ratio": 0.3347
+      },
+      {
+        "hex": "#FFFFFF",
+        "ratio": 0.3272
+      }
+    ]
+  },
+  {
+    "code": "br",
+    "name": "Brazil",
+    "colors": [
+      {
+        "hex": "#009B3A",
+        "ratio": 0.7207
+      },
+      {
+        "hex": "#FEDF00",
+        "ratio": 0.1754
+      },
+      {
+        "hex": "#002676",
+        "ratio": 0.1039
+      }
+    ]
+  },
+  {
+    "code": "bs",
+    "name": "Bahamas (The)",
+    "colors": [
+      {
+        "hex": "#00778B",
+        "ratio": 0.568
+      },
+      {
+        "hex": "#000000",
+        "ratio": 0.2158
+      },
+      {
+        "hex": "#FFC72C",
+        "ratio": 0.2054
+      },
+      {
+        "hex": "#ABAC4C",
+        "ratio": 0.0107
+      }
+    ]
+  },
+  {
+    "code": "bt",
+    "name": "Bhutan",
+    "colors": [
+      {
+        "hex": "#FFD520",
+        "ratio": 0.4604
+      },
+      {
+        "hex": "#FF4E12",
+        "ratio": 0.4153
+      },
+      {
+        "hex": "#FDFDFD",
+        "ratio": 0.0681
+      },
+      {
+        "hex": "#E4E3E3",
+        "ratio": 0.0362
+      },
+      {
+        "hex": "#D4D4D3",
+        "ratio": 0.0199
+      }
+    ]
+  },
+  {
+    "code": "bv",
+    "name": "Bouvet Island",
+    "colors": [
+      {
+        "hex": "#BA0C2F",
+        "ratio": 0.5974
+      },
+      {
+        "hex": "#00205B",
+        "ratio": 0.19
+      },
+      {
+        "hex": "#FFFEFE",
+        "ratio": 0.1482
+      },
+      {
+        "hex": "#ECEEF3",
+        "ratio": 0.0137
+      },
+      {
+        "hex": "#445C87",
+        "ratio": 0.0137
+      },
+      {
+        "hex": "#CB4964",
+        "ratio": 0.0124
+      },
+      {
+        "hex": "#B60024",
+        "ratio": 0.0123
+      },
+      {
+        "hex": "#F8E7EB",
+        "ratio": 0.0123
+      }
+    ]
+  },
+  {
+    "code": "bw",
+    "name": "Botswana",
+    "colors": [
+      {
+        "hex": "#6DA9D2",
+        "ratio": 0.7388
+      },
+      {
+        "hex": "#000000",
+        "ratio": 0.1567
+      },
+      {
+        "hex": "#FFFFFF",
+        "ratio": 0.0746
+      },
+      {
+        "hex": "#7FB4D8",
+        "ratio": 0.0149
+      },
+      {
+        "hex": "#6A6A6A",
+        "ratio": 0.0149
+      }
+    ]
+  },
+  {
+    "code": "by",
+    "name": "Belarus",
+    "colors": [
+      {
+        "hex": "#D22730",
+        "ratio": 0.6467
+      },
+      {
+        "hex": "#009739",
+        "ratio": 0.3134
+      },
+      {
+        "hex": "#FFFDFD",
+        "ratio": 0.0256
+      },
+      {
+        "hex": "#D32B33",
+        "ratio": 0.0143
+      }
+    ]
+  },
+  {
+    "code": "bz",
+    "name": "Belize",
+    "colors": [
+      {
+        "hex": "#171696",
+        "ratio": 0.7022
+      },
+      {
+        "hex": "#D90F19",
+        "ratio": 0.224
+      },
+      {
+        "hex": "#FEFEFE",
+        "ratio": 0.0566
+      },
+      {
+        "hex": "#511370",
+        "ratio": 0.0172
+      }
+    ]
+  },
+  {
+    "code": "ca",
+    "name": "Canada",
+    "colors": [
+      {
+        "hex": "#D52B1E",
+        "ratio": 0.6114
+      },
+      {
+        "hex": "#FFFFFF",
+        "ratio": 0.3511
+      },
+      {
+        "hex": "#D42518",
+        "ratio": 0.0152
+      },
+      {
+        "hex": "#F9E4E2",
+        "ratio": 0.0121
+      },
+      {
+        "hex": "#DA473C",
+        "ratio": 0.0102
+      }
+    ]
+  },
+  {
+    "code": "cc",
+    "name": "Cocos (Keeling) Islands (the)",
+    "colors": [
+      {
+        "hex": "#008000",
+        "ratio": 0.9166
+      },
+      {
+        "hex": "#FEE000",
+        "ratio": 0.0834
+      }
+    ]
+  },
+  {
+    "code": "cd",
+    "name": "Congo (the Democratic Republic of the)",
+    "colors": [
+      {
+        "hex": "#007FFF",
+        "ratio": 0.7029
+      },
+      {
+        "hex": "#CE1021",
+        "ratio": 0.2013
+      },
+      {
+        "hex": "#F7D618",
+        "ratio": 0.0958
+      }
+    ]
+  },
+  {
+    "code": "cf",
+    "name": "Central African Republic (the)",
+    "colors": [
+      {
+        "hex": "#FFCE00",
+        "ratio": 0.2196
+      },
+      {
+        "hex": "#FFFFFF",
+        "ratio": 0.208
+      },
+      {
+        "hex": "#289728",
+        "ratio": 0.2055
+      },
+      {
+        "hex": "#003082",
+        "ratio": 0.2003
+      },
+      {
+        "hex": "#D21034",
+        "ratio": 0.1666
+      }
+    ]
+  },
+  {
+    "code": "cg",
+    "name": "Congo (the)",
+    "colors": [
+      {
+        "hex": "#009543",
+        "ratio": 0.3367
+      },
+      {
+        "hex": "#FBDE4A",
+        "ratio": 0.3316
+      },
+      {
+        "hex": "#DC241F",
+        "ratio": 0.3316
+      }
+    ]
+  },
+  {
+    "code": "ch",
+    "name": "Switzerland",
+    "colors": [
+      {
+        "hex": "#DA291C",
+        "ratio": 0.8075
+      },
+      {
+        "hex": "#FFFFFF",
+        "ratio": 0.1925
+      }
+    ]
+  },
+  {
+    "code": "ci",
+    "name": "Côte d'Ivoire",
+    "colors": [
+      {
+        "hex": "#FFFFFF",
+        "ratio": 0.335
+      },
+      {
+        "hex": "#009E60",
+        "ratio": 0.335
+      },
+      {
+        "hex": "#F77F00",
+        "ratio": 0.3299
+      }
+    ]
+  },
+  {
+    "code": "ck",
+    "name": "Cook Islands (the)",
+    "colors": [
+      {
+        "hex": "#012169",
+        "ratio": 0.8157
+      },
+      {
+        "hex": "#FEFEFF",
+        "ratio": 0.1078
+      },
+      {
+        "hex": "#C8102E",
+        "ratio": 0.0765
+      }
+    ]
+  },
+  {
+    "code": "cl",
+    "name": "Chile",
+    "colors": [
+      {
+        "hex": "#D52B1E",
+        "ratio": 0.5061
+      },
+      {
+        "hex": "#FFFFFF",
+        "ratio": 0.3436
+      },
+      {
+        "hex": "#0039A6",
+        "ratio": 0.1503
+      }
+    ]
+  },
+  {
+    "code": "cm",
+    "name": "Cameroon",
+    "colors": [
+      {
+        "hex": "#FCD116",
+        "ratio": 0.3463
+      },
+      {
+        "hex": "#007A5E",
+        "ratio": 0.3347
+      },
+      {
+        "hex": "#CE1126",
+        "ratio": 0.319
+      }
+    ]
+  },
+  {
+    "code": "cn",
+    "name": "China",
+    "colors": [
+      {
+        "hex": "#EE1C25",
+        "ratio": 0.9801
+      },
+      {
+        "hex": "#FFFE00",
+        "ratio": 0.0199
+      }
+    ]
+  },
+  {
+    "code": "co",
+    "name": "Colombia",
+    "colors": [
+      {
+        "hex": "#FCD116",
+        "ratio": 0.5026
+      },
+      {
+        "hex": "#CE1126",
+        "ratio": 0.2538
+      },
+      {
+        "hex": "#003893",
+        "ratio": 0.2437
+      }
+    ]
+  },
+  {
+    "code": "cr",
+    "name": "Costa Rica",
+    "colors": [
+      {
+        "hex": "#002B7F",
+        "ratio": 0.3422
+      },
+      {
+        "hex": "#FFFFFF",
+        "ratio": 0.3343
+      },
+      {
+        "hex": "#CE1126",
+        "ratio": 0.2923
+      },
+      {
+        "hex": "#DE606E",
+        "ratio": 0.0157
+      },
+      {
+        "hex": "#D5DCEA",
+        "ratio": 0.0154
+      }
+    ]
+  },
+  {
+    "code": "cu",
+    "name": "Cuba",
+    "colors": [
+      {
+        "hex": "#002A8F",
+        "ratio": 0.483
+      },
+      {
+        "hex": "#FFFFFF",
+        "ratio": 0.3063
+      },
+      {
+        "hex": "#CF142B",
+        "ratio": 0.1979
+      },
+      {
+        "hex": "#667FBC",
+        "ratio": 0.0128
+      }
+    ]
+  },
+  {
+    "code": "cv",
+    "name": "Cabo Verde",
+    "colors": [
+      {
+        "hex": "#003893",
+        "ratio": 0.7714
+      },
+      {
+        "hex": "#FFFFFF",
+        "ratio": 0.1492
+      },
+      {
+        "hex": "#CF2027",
+        "ratio": 0.0794
+      }
+    ]
+  },
+  {
+    "code": "cw",
+    "name": "Curaçao",
+    "colors": [
+      {
+        "hex": "#002B7F",
+        "ratio": 0.8737
+      },
+      {
+        "hex": "#F9E814",
+        "ratio": 0.1142
+      },
+      {
+        "hex": "#FEFFFF",
+        "ratio": 0.0121
+      }
+    ]
+  },
+  {
+    "code": "cx",
+    "name": "Christmas Island",
+    "colors": [
+      {
+        "hex": "#0021AD",
+        "ratio": 0.478
+      },
+      {
+        "hex": "#1C8A42",
+        "ratio": 0.4643
+      },
+      {
+        "hex": "#FEC639",
+        "ratio": 0.0577
+      }
+    ]
+  },
+  {
+    "code": "cy",
+    "name": "Cyprus",
+    "colors": [
+      {
+        "hex": "#FFFFFF",
+        "ratio": 0.9146
+      },
+      {
+        "hex": "#D57800",
+        "ratio": 0.0854
+      }
+    ]
+  },
+  {
+    "code": "cz",
+    "name": "Czechia",
+    "colors": [
+      {
+        "hex": "#FFFFFF",
+        "ratio": 0.3774
+      },
+      {
+        "hex": "#D7141A",
+        "ratio": 0.3774
+      },
+      {
+        "hex": "#11457E",
+        "ratio": 0.2453
+      }
+    ]
+  },
+  {
+    "code": "de",
+    "name": "Germany",
+    "colors": [
+      {
+        "hex": "#000000",
+        "ratio": 0.3381
+      },
+      {
+        "hex": "#FFCE00",
+        "ratio": 0.3347
+      },
+      {
+        "hex": "#DD0000",
+        "ratio": 0.3272
+      }
+    ]
+  },
+  {
+    "code": "dj",
+    "name": "Djibouti",
+    "colors": [
+      {
+        "hex": "#6AB2E7",
+        "ratio": 0.36
+      },
+      {
+        "hex": "#12AD2B",
+        "ratio": 0.3571
+      },
+      {
+        "hex": "#FFFFFF",
+        "ratio": 0.2704
+      },
+      {
+        "hex": "#D7141A",
+        "ratio": 0.0125
+      }
+    ]
+  },
+  {
+    "code": "dk",
+    "name": "Denmark",
+    "colors": [
+      {
+        "hex": "#C60C30",
+        "ratio": 0.753
+      },
+      {
+        "hex": "#FFFFFF",
+        "ratio": 0.2203
+      },
+      {
+        "hex": "#CC2948",
+        "ratio": 0.0133
+      },
+      {
+        "hex": "#F7DDE2",
+        "ratio": 0.0133
+      }
+    ]
+  },
+  {
+    "code": "dm",
+    "name": "Dominica",
+    "colors": [
+      {
+        "hex": "#006B3F",
+        "ratio": 0.6774
+      },
+      {
+        "hex": "#FEFEFE",
+        "ratio": 0.0871
+      },
+      {
+        "hex": "#010000",
+        "ratio": 0.0852
+      },
+      {
+        "hex": "#FBD117",
+        "ratio": 0.0844
+      },
+      {
+        "hex": "#D41C30",
+        "ratio": 0.0659
+      }
+    ]
+  },
+  {
+    "code": "do",
+    "name": "Dominican Republic (the)",
+    "colors": [
+      {
+        "hex": "#002D62",
+        "ratio": 0.3571
+      },
+      {
+        "hex": "#CE1126",
+        "ratio": 0.3567
+      },
+      {
+        "hex": "#FFFFFF",
+        "ratio": 0.2862
+      }
+    ]
+  },
+  {
+    "code": "dz",
+    "name": "Algeria",
+    "colors": [
+      {
+        "hex": "#FFFFFF",
+        "ratio": 0.485
+      },
+      {
+        "hex": "#006233",
+        "ratio": 0.4622
+      },
+      {
+        "hex": "#D21034",
+        "ratio": 0.0528
+      }
+    ]
+  },
+  {
+    "code": "ec",
+    "name": "Ecuador",
+    "colors": [
+      {
+        "hex": "#FFDD00",
+        "ratio": 0.5029
+      },
+      {
+        "hex": "#ED1C24",
+        "ratio": 0.2787
+      },
+      {
+        "hex": "#034EA2",
+        "ratio": 0.2184
+      }
+    ]
+  },
+  {
+    "code": "ee",
+    "name": "Estonia",
+    "colors": [
+      {
+        "hex": "#0072CE",
+        "ratio": 0.3359
+      },
+      {
+        "hex": "#FFFFFF",
+        "ratio": 0.3359
+      },
+      {
+        "hex": "#000000",
+        "ratio": 0.3283
+      }
+    ]
+  },
+  {
+    "code": "eg",
+    "name": "Egypt",
+    "colors": [
+      {
+        "hex": "#000000",
+        "ratio": 0.3503
+      },
+      {
+        "hex": "#CE1126",
+        "ratio": 0.3468
+      },
+      {
+        "hex": "#FFFFFF",
+        "ratio": 0.3029
+      }
+    ]
+  },
+  {
+    "code": "eh",
+    "name": "Western Sahara*",
+    "colors": [
+      {
+        "hex": "#000000",
+        "ratio": 0.3027
+      },
+      {
+        "hex": "#007A3D",
+        "ratio": 0.3027
+      },
+      {
+        "hex": "#FFFFFF",
+        "ratio": 0.2237
+      },
+      {
+        "hex": "#C4111B",
+        "ratio": 0.1708
+      }
+    ]
+  },
+  {
+    "code": "er",
+    "name": "Eritrea",
+    "colors": [
+      {
+        "hex": "#E4002B",
+        "ratio": 0.443
+      },
+      {
+        "hex": "#43B02A",
+        "ratio": 0.2594
+      },
+      {
+        "hex": "#418FDE",
+        "ratio": 0.2582
+      },
+      {
+        "hex": "#FFC42C",
+        "ratio": 0.0246
+      },
+      {
+        "hex": "#FFCD2C",
+        "ratio": 0.0148
+      }
+    ]
+  },
+  {
+    "code": "es",
+    "name": "Spain",
+    "colors": [
+      {
+        "hex": "#C60B1E",
+        "ratio": 0.5274
+      },
+      {
+        "hex": "#FFC400",
+        "ratio": 0.4458
+      },
+      {
+        "hex": "#F19707",
+        "ratio": 0.0158
+      },
+      {
+        "hex": "#AA1619",
+        "ratio": 0.0109
+      }
+    ]
+  },
+  {
+    "code": "et",
+    "name": "Ethiopia",
+    "colors": [
+      {
+        "hex": "#078930",
+        "ratio": 0.3159
+      },
+      {
+        "hex": "#DA121A",
+        "ratio": 0.3144
+      },
+      {
+        "hex": "#FCDD09",
+        "ratio": 0.2428
+      },
+      {
+        "hex": "#0F47AF",
+        "ratio": 0.1269
+      }
+    ]
+  },
+  {
+    "code": "fi",
+    "name": "Finland",
+    "colors": [
+      {
+        "hex": "#FFFFFF",
+        "ratio": 0.6053
+      },
+      {
+        "hex": "#003580",
+        "ratio": 0.3823
+      },
+      {
+        "hex": "#5C7EAE",
+        "ratio": 0.0124
+      }
+    ]
+  },
+  {
+    "code": "fj",
+    "name": "Fiji",
+    "colors": [
+      {
+        "hex": "#69B3E7",
+        "ratio": 0.7269
+      },
+      {
+        "hex": "#FEFEFE",
+        "ratio": 0.0969
+      },
+      {
+        "hex": "#C8102E",
+        "ratio": 0.0965
+      },
+      {
+        "hex": "#012169",
+        "ratio": 0.067
+      },
+      {
+        "hex": "#C60C2B",
+        "ratio": 0.0127
+      }
+    ]
+  },
+  {
+    "code": "fk",
+    "name": "Falkland Islands (the) [Malvinas]",
+    "colors": [
+      {
+        "hex": "#012169",
+        "ratio": 0.8039
+      },
+      {
+        "hex": "#FFFEFE",
+        "ratio": 0.0888
+      },
+      {
+        "hex": "#C8102E",
+        "ratio": 0.0818
+      },
+      {
+        "hex": "#2B7FFE",
+        "ratio": 0.0256
+      }
+    ]
+  },
+  {
+    "code": "fm",
+    "name": "Micronesia (Federated States of)",
+    "colors": [
+      {
+        "hex": "#75B2DD",
+        "ratio": 0.9604
+      },
+      {
+        "hex": "#FEFFFF",
+        "ratio": 0.018
+      },
+      {
+        "hex": "#72B0DB",
+        "ratio": 0.0115
+      },
+      {
+        "hex": "#76B4DF",
+        "ratio": 0.0102
+      }
+    ]
+  },
+  {
+    "code": "fo",
+    "name": "Faroe Islands (the)",
+    "colors": [
+      {
+        "hex": "#FFFFFF",
+        "ratio": 0.6098
+      },
+      {
+        "hex": "#ED2939",
+        "ratio": 0.1762
+      },
+      {
+        "hex": "#0165BD",
+        "ratio": 0.1359
+      },
+      {
+        "hex": "#1260B3",
+        "ratio": 0.0137
+      },
+      {
+        "hex": "#AE395C",
+        "ratio": 0.0137
+      },
+      {
+        "hex": "#F42735",
+        "ratio": 0.0137
+      },
+      {
+        "hex": "#BED8EE",
+        "ratio": 0.0124
+      },
+      {
+        "hex": "#0062BC",
+        "ratio": 0.0124
+      },
+      {
+        "hex": "#1974C4",
+        "ratio": 0.0123
+      }
+    ]
+  },
+  {
+    "code": "fr",
+    "name": "France",
+    "colors": [
+      {
+        "hex": "#FFFFFF",
+        "ratio": 0.335
+      },
+      {
+        "hex": "#EC1920",
+        "ratio": 0.335
+      },
+      {
+        "hex": "#051440",
+        "ratio": 0.3299
+      }
+    ]
+  },
+  {
+    "code": "ga",
+    "name": "Gabon",
+    "colors": [
+      {
+        "hex": "#009E60",
+        "ratio": 0.3359
+      },
+      {
+        "hex": "#3A75C4",
+        "ratio": 0.3281
+      },
+      {
+        "hex": "#FCD116",
+        "ratio": 0.3203
+      },
+      {
+        "hex": "#FFD70D",
+        "ratio": 0.0156
+      }
+    ]
+  },
+  {
+    "code": "gb",
+    "name": "United Kingdom of Great Britain and Northern Ireland (the)",
+    "colors": [
+      {
+        "hex": "#C8102E",
+        "ratio": 0.3415
+      },
+      {
+        "hex": "#FFFFFF",
+        "ratio": 0.3182
+      },
+      {
+        "hex": "#012169",
+        "ratio": 0.2845
+      },
+      {
+        "hex": "#C70B29",
+        "ratio": 0.0189
+      },
+      {
+        "hex": "#D33F57",
+        "ratio": 0.0148
+      },
+      {
+        "hex": "#F9E5E8",
+        "ratio": 0.0114
+      },
+      {
+        "hex": "#CE2D48",
+        "ratio": 0.0109
+      }
+    ]
+  },
+  {
+    "code": "gd",
+    "name": "Grenada",
+    "colors": [
+      {
+        "hex": "#CE1126",
+        "ratio": 0.3977
+      },
+      {
+        "hex": "#FCD116",
+        "ratio": 0.3077
+      },
+      {
+        "hex": "#007A5E",
+        "ratio": 0.2816
+      },
+      {
+        "hex": "#B2762D",
+        "ratio": 0.013
+      }
+    ]
+  },
+  {
+    "code": "ge",
+    "name": "Georgia",
+    "colors": [
+      {
+        "hex": "#FFFFFF",
+        "ratio": 0.642
+      },
+      {
+        "hex": "#FF0000",
+        "ratio": 0.3414
+      },
+      {
+        "hex": "#FF3232",
+        "ratio": 0.0166
+      }
+    ]
+  },
+  {
+    "code": "gf",
+    "name": "French Guiana",
+    "colors": [
+      {
+        "hex": "#FFFFFF",
+        "ratio": 0.335
+      },
+      {
+        "hex": "#EC1920",
+        "ratio": 0.335
+      },
+      {
+        "hex": "#051440",
+        "ratio": 0.3299
+      }
+    ]
+  },
+  {
+    "code": "gg",
+    "name": "Guernsey",
+    "colors": [
+      {
+        "hex": "#FFFFFF",
+        "ratio": 0.6291
+      },
+      {
+        "hex": "#E8112D",
+        "ratio": 0.2799
+      },
+      {
+        "hex": "#F9DD16",
+        "ratio": 0.0782
+      },
+      {
+        "hex": "#FCE1E5",
+        "ratio": 0.0129
+      }
+    ]
+  },
+  {
+    "code": "gh",
+    "name": "Ghana",
+    "colors": [
+      {
+        "hex": "#006B3F",
+        "ratio": 0.3401
+      },
+      {
+        "hex": "#CE1126",
+        "ratio": 0.3367
+      },
+      {
+        "hex": "#FCD116",
+        "ratio": 0.3002
+      },
+      {
+        "hex": "#000000",
+        "ratio": 0.0229
+      }
+    ]
+  },
+  {
+    "code": "gi",
+    "name": "Gibraltar",
+    "colors": [
+      {
+        "hex": "#FFFFFF",
+        "ratio": 0.5734
+      },
+      {
+        "hex": "#DA000C",
+        "ratio": 0.3759
+      },
+      {
+        "hex": "#010000",
+        "ratio": 0.0203
+      },
+      {
+        "hex": "#E1010C",
+        "ratio": 0.0185
+      },
+      {
+        "hex": "#BE0008",
+        "ratio": 0.0119
+      }
+    ]
+  },
+  {
+    "code": "gl",
+    "name": "Greenland",
+    "colors": [
+      {
+        "hex": "#FFFFFF",
+        "ratio": 0.5028
+      },
+      {
+        "hex": "#D00C33",
+        "ratio": 0.4972
+      }
+    ]
+  },
+  {
+    "code": "gm",
+    "name": "Gambia (the)",
+    "colors": [
+      {
+        "hex": "#CE1126",
+        "ratio": 0.3411
+      },
+      {
+        "hex": "#3A7728",
+        "ratio": 0.3411
+      },
+      {
+        "hex": "#0C1C8C",
+        "ratio": 0.2248
+      },
+      {
+        "hex": "#FFFFFF",
+        "ratio": 0.093
+      }
+    ]
+  },
+  {
+    "code": "gn",
+    "name": "Guinea",
+    "colors": [
+      {
+        "hex": "#009460",
+        "ratio": 0.3367
+      },
+      {
+        "hex": "#CE1126",
+        "ratio": 0.3317
+      },
+      {
+        "hex": "#FCD116",
+        "ratio": 0.3317
+      }
+    ]
+  },
+  {
+    "code": "gp",
+    "name": "Guadeloupe",
+    "colors": [
+      {
+        "hex": "#FFFFFF",
+        "ratio": 0.335
+      },
+      {
+        "hex": "#EC1920",
+        "ratio": 0.335
+      },
+      {
+        "hex": "#051440",
+        "ratio": 0.3299
+      }
+    ]
+  },
+  {
+    "code": "gq",
+    "name": "Equatorial Guinea",
+    "colors": [
+      {
+        "hex": "#E32118",
+        "ratio": 0.3173
+      },
+      {
+        "hex": "#3E9A00",
+        "ratio": 0.3155
+      },
+      {
+        "hex": "#FFFFFF",
+        "ratio": 0.2439
+      },
+      {
+        "hex": "#0073CE",
+        "ratio": 0.1233
+      }
+    ]
+  },
+  {
+    "code": "gr",
+    "name": "Greece",
+    "colors": [
+      {
+        "hex": "#0D5EAF",
+        "ratio": 0.5337
+      },
+      {
+        "hex": "#FFFFFF",
+        "ratio": 0.4129
+      },
+      {
+        "hex": "#4281C1",
+        "ratio": 0.0145
+      },
+      {
+        "hex": "#96B9DC",
+        "ratio": 0.0145
+      },
+      {
+        "hex": "#AFCAE5",
+        "ratio": 0.0122
+      },
+      {
+        "hex": "#2970B8",
+        "ratio": 0.0121
+      }
+    ]
+  },
+  {
+    "code": "gs",
+    "name": "South Georgia and the South Sandwich Islands",
+    "colors": [
+      {
+        "hex": "#012169",
+        "ratio": 0.828
+      },
+      {
+        "hex": "#FFFEFE",
+        "ratio": 0.0878
+      },
+      {
+        "hex": "#C8102E",
+        "ratio": 0.0842
+      }
+    ]
+  },
+  {
+    "code": "gt",
+    "name": "Guatemala",
+    "colors": [
+      {
+        "hex": "#4997D0",
+        "ratio": 0.6864
+      },
+      {
+        "hex": "#FFFFFF",
+        "ratio": 0.3032
+      },
+      {
+        "hex": "#80B6DE",
+        "ratio": 0.0104
+      }
+    ]
+  },
+  {
+    "code": "gu",
+    "name": "Guam",
+    "colors": [
+      {
+        "hex": "#00297B",
+        "ratio": 0.8357
+      },
+      {
+        "hex": "#C62139",
+        "ratio": 0.1249
+      },
+      {
+        "hex": "#92DAFB",
+        "ratio": 0.0151
+      },
+      {
+        "hex": "#CD2036",
+        "ratio": 0.0139
+      },
+      {
+        "hex": "#AD2241",
+        "ratio": 0.0105
+      }
+    ]
+  },
+  {
+    "code": "gw",
+    "name": "Guinea-Bissau",
+    "colors": [
+      {
+        "hex": "#FCD116",
+        "ratio": 0.3363
+      },
+      {
+        "hex": "#009E49",
+        "ratio": 0.3337
+      },
+      {
+        "hex": "#CE1126",
+        "ratio": 0.3164
+      },
+      {
+        "hex": "#010000",
+        "ratio": 0.0137
+      }
+    ]
+  },
+  {
+    "code": "gy",
+    "name": "Guyana",
+    "colors": [
+      {
+        "hex": "#009E49",
+        "ratio": 0.5172
+      },
+      {
+        "hex": "#CE1126",
+        "ratio": 0.1964
+      },
+      {
+        "hex": "#FCD116",
+        "ratio": 0.1701
+      },
+      {
+        "hex": "#FFFFFF",
+        "ratio": 0.0671
+      },
+      {
+        "hex": "#010000",
+        "ratio": 0.0493
+      }
+    ]
+  },
+  {
+    "code": "hk",
+    "name": "Hong Kong",
+    "colors": [
+      {
+        "hex": "#EE1C25",
+        "ratio": 0.9252
+      },
+      {
+        "hex": "#FFFFFF",
+        "ratio": 0.0748
+      }
+    ]
+  },
+  {
+    "code": "hm",
+    "name": "Heard Island and McDonald Islands",
+    "colors": [
+      {
+        "hex": "#012169",
+        "ratio": 0.8267
+      },
+      {
+        "hex": "#FFFEFF",
+        "ratio": 0.0944
+      },
+      {
+        "hex": "#E4002B",
+        "ratio": 0.0789
+      }
+    ]
+  },
+  {
+    "code": "hn",
+    "name": "Honduras",
+    "colors": [
+      {
+        "hex": "#0D3B99",
+        "ratio": 0.6709
+      },
+      {
+        "hex": "#FFFFFF",
+        "ratio": 0.3137
+      },
+      {
+        "hex": "#AFBEDD",
+        "ratio": 0.0153
+      }
+    ]
+  },
+  {
+    "code": "hr",
+    "name": "Croatia",
+    "colors": [
+      {
+        "hex": "#001489",
+        "ratio": 0.3495
+      },
+      {
+        "hex": "#C8102E",
+        "ratio": 0.3394
+      },
+      {
+        "hex": "#FFFFFF",
+        "ratio": 0.311
+      }
+    ]
+  },
+  {
+    "code": "ht",
+    "name": "Haiti",
+    "colors": [
+      {
+        "hex": "#D21034",
+        "ratio": 0.4963
+      },
+      {
+        "hex": "#00209F",
+        "ratio": 0.4858
+      },
+      {
+        "hex": "#FEFEFE",
+        "ratio": 0.0179
+      }
+    ]
+  },
+  {
+    "code": "hu",
+    "name": "Hungary",
+    "colors": [
+      {
+        "hex": "#CE2939",
+        "ratio": 0.3359
+      },
+      {
+        "hex": "#477050",
+        "ratio": 0.3359
+      },
+      {
+        "hex": "#FFFFFF",
+        "ratio": 0.3283
+      }
+    ]
+  },
+  {
+    "code": "id",
+    "name": "Indonesia",
+    "colors": [
+      {
+        "hex": "#FFFFFF",
+        "ratio": 0.5025
+      },
+      {
+        "hex": "#FF0000",
+        "ratio": 0.4975
+      }
+    ]
+  },
+  {
+    "code": "ie",
+    "name": "Ireland",
+    "colors": [
+      {
+        "hex": "#009A44",
+        "ratio": 0.3333
+      },
+      {
+        "hex": "#FFFFFF",
+        "ratio": 0.3333
+      },
+      {
+        "hex": "#FF8200",
+        "ratio": 0.3333
+      }
+    ]
+  },
+  {
+    "code": "il",
+    "name": "Israel",
+    "colors": [
+      {
+        "hex": "#FFFFFF",
+        "ratio": 0.6339
+      },
+      {
+        "hex": "#0038B8",
+        "ratio": 0.335
+      },
+      {
+        "hex": "#BDCBEC",
+        "ratio": 0.0158
+      },
+      {
+        "hex": "#809CDC",
+        "ratio": 0.0153
+      }
+    ]
+  },
+  {
+    "code": "im",
+    "name": "Isle of Man",
+    "colors": [
+      {
+        "hex": "#CF142B",
+        "ratio": 0.9757
+      },
+      {
+        "hex": "#FEFEFE",
+        "ratio": 0.0243
+      }
+    ]
+  },
+  {
+    "code": "in",
+    "name": "India",
+    "colors": [
+      {
+        "hex": "#FF9933",
+        "ratio": 0.3494
+      },
+      {
+        "hex": "#128807",
+        "ratio": 0.3494
+      },
+      {
+        "hex": "#FFFFFF",
+        "ratio": 0.3013
+      }
+    ]
+  },
+  {
+    "code": "io",
+    "name": "British Indian Ocean Territory (the)",
+    "colors": [
+      {
+        "hex": "#012169",
+        "ratio": 0.4484
+      },
+      {
+        "hex": "#FFFFFF",
+        "ratio": 0.4442
+      },
+      {
+        "hex": "#C8102E",
+        "ratio": 0.0854
+      },
+      {
+        "hex": "#006900",
+        "ratio": 0.022
+      }
+    ]
+  },
+  {
+    "code": "iq",
+    "name": "Iraq",
+    "colors": [
+      {
+        "hex": "#CE1126",
+        "ratio": 0.3432
+      },
+      {
+        "hex": "#000000",
+        "ratio": 0.3398
+      },
+      {
+        "hex": "#FFFFFF",
+        "ratio": 0.299
+      },
+      {
+        "hex": "#017A3D",
+        "ratio": 0.0179
+      }
+    ]
+  },
+  {
+    "code": "ir",
+    "name": "Iran (Islamic Republic of)",
+    "colors": [
+      {
+        "hex": "#FFFFFF",
+        "ratio": 0.361
+      },
+      {
+        "hex": "#DA0000",
+        "ratio": 0.3253
+      },
+      {
+        "hex": "#239F40",
+        "ratio": 0.3137
+      }
+    ]
+  },
+  {
+    "code": "is",
+    "name": "Iceland",
+    "colors": [
+      {
+        "hex": "#003087",
+        "ratio": 0.6317
+      },
+      {
+        "hex": "#D50032",
+        "ratio": 0.1699
+      },
+      {
+        "hex": "#FEFEFF",
+        "ratio": 0.1594
+      },
+      {
+        "hex": "#D91745",
+        "ratio": 0.0138
+      },
+      {
+        "hex": "#00227F",
+        "ratio": 0.0126
+      },
+      {
+        "hex": "#4165A6",
+        "ratio": 0.0126
+      }
+    ]
+  },
+  {
+    "code": "it",
+    "name": "Italy",
+    "colors": [
+      {
+        "hex": "#FFFFFF",
+        "ratio": 0.335
+      },
+      {
+        "hex": "#CD212A",
+        "ratio": 0.335
+      },
+      {
+        "hex": "#008C45",
+        "ratio": 0.3299
+      }
+    ]
+  },
+  {
+    "code": "je",
+    "name": "Jersey",
+    "colors": [
+      {
+        "hex": "#FFFFFF",
+        "ratio": 0.7505
+      },
+      {
+        "hex": "#DF112D",
+        "ratio": 0.2386
+      },
+      {
+        "hex": "#E01934",
+        "ratio": 0.0109
+      }
+    ]
+  },
+  {
+    "code": "jm",
+    "name": "Jamaica",
+    "colors": [
+      {
+        "hex": "#FFB81C",
+        "ratio": 0.3349
+      },
+      {
+        "hex": "#007749",
+        "ratio": 0.3333
+      },
+      {
+        "hex": "#2D2926",
+        "ratio": 0.3318
+      }
+    ]
+  },
+  {
+    "code": "jo",
+    "name": "Jordan",
+    "colors": [
+      {
+        "hex": "#000000",
+        "ratio": 0.2811
+      },
+      {
+        "hex": "#007A3D",
+        "ratio": 0.2811
+      },
+      {
+        "hex": "#CE1126",
+        "ratio": 0.2441
+      },
+      {
+        "hex": "#FFFFFF",
+        "ratio": 0.1937
+      }
+    ]
+  },
+  {
+    "code": "jp",
+    "name": "Japan",
+    "colors": [
+      {
+        "hex": "#FFFFFF",
+        "ratio": 0.8146
+      },
+      {
+        "hex": "#BC002D",
+        "ratio": 0.1854
+      }
+    ]
+  },
+  {
+    "code": "ke",
+    "name": "Kenya",
+    "colors": [
+      {
+        "hex": "#000000",
+        "ratio": 0.3036
+      },
+      {
+        "hex": "#BB0000",
+        "ratio": 0.2939
+      },
+      {
+        "hex": "#006600",
+        "ratio": 0.2923
+      },
+      {
+        "hex": "#FFFFFF",
+        "ratio": 0.0968
+      },
+      {
+        "hex": "#DF8888",
+        "ratio": 0.0134
+      }
+    ]
+  },
+  {
+    "code": "kg",
+    "name": "Kyrgyzstan",
+    "colors": [
+      {
+        "hex": "#EE2737",
+        "ratio": 0.9002
+      },
+      {
+        "hex": "#FEE000",
+        "ratio": 0.0499
+      },
+      {
+        "hex": "#EE2D35",
+        "ratio": 0.0226
+      },
+      {
+        "hex": "#FDD502",
+        "ratio": 0.0168
+      },
+      {
+        "hex": "#F02737",
+        "ratio": 0.0106
+      }
+    ]
+  },
+  {
+    "code": "kh",
+    "name": "Cambodia",
+    "colors": [
+      {
+        "hex": "#032EA1",
+        "ratio": 0.5296
+      },
+      {
+        "hex": "#E00025",
+        "ratio": 0.4028
+      },
+      {
+        "hex": "#FEFEFE",
+        "ratio": 0.0315
+      },
+      {
+        "hex": "#ABABAB",
+        "ratio": 0.02
+      },
+      {
+        "hex": "#AA0B44",
+        "ratio": 0.0161
+      }
+    ]
+  },
+  {
+    "code": "ki",
+    "name": "Kiribati",
+    "colors": [
+      {
+        "hex": "#C81010",
+        "ratio": 0.4685
+      },
+      {
+        "hex": "#FFFFFF",
+        "ratio": 0.246
+      },
+      {
+        "hex": "#183070",
+        "ratio": 0.2394
+      },
+      {
+        "hex": "#F8D000",
+        "ratio": 0.0461
+      }
+    ]
+  },
+  {
+    "code": "km",
+    "name": "Comoros (the)",
+    "colors": [
+      {
+        "hex": "#3A75C4",
+        "ratio": 0.2282
+      },
+      {
+        "hex": "#FFC61E",
+        "ratio": 0.2269
+      },
+      {
+        "hex": "#3D8E33",
+        "ratio": 0.2053
+      },
+      {
+        "hex": "#FFFFFF",
+        "ratio": 0.1837
+      },
+      {
+        "hex": "#CE1126",
+        "ratio": 0.156
+      }
+    ]
+  },
+  {
+    "code": "kn",
+    "name": "Saint Kitts and Nevis",
+    "colors": [
+      {
+        "hex": "#000000",
+        "ratio": 0.2975
+      },
+      {
+        "hex": "#009E49",
+        "ratio": 0.2873
+      },
+      {
+        "hex": "#CE1126",
+        "ratio": 0.2873
+      },
+      {
+        "hex": "#FCD116",
+        "ratio": 0.1015
+      },
+      {
+        "hex": "#FEFEFE",
+        "ratio": 0.0263
+      }
+    ]
+  },
+  {
+    "code": "kp",
+    "name": "Korea (the Democratic People's Republic of)",
+    "colors": [
+      {
+        "hex": "#ED1C27",
+        "ratio": 0.5529
+      },
+      {
+        "hex": "#024FA2",
+        "ratio": 0.3382
+      },
+      {
+        "hex": "#FFFFFF",
+        "ratio": 0.0765
+      },
+      {
+        "hex": "#FCE0E2",
+        "ratio": 0.0172
+      },
+      {
+        "hex": "#D5E2F0",
+        "ratio": 0.0153
+      }
+    ]
+  },
+  {
+    "code": "kr",
+    "name": "Korea (the Republic of)",
+    "colors": [
+      {
+        "hex": "#FFFFFF",
+        "ratio": 0.8045
+      },
+      {
+        "hex": "#010101",
+        "ratio": 0.0681
+      },
+      {
+        "hex": "#CD2E3A",
+        "ratio": 0.0638
+      },
+      {
+        "hex": "#0047A0",
+        "ratio": 0.0636
+      }
+    ]
+  },
+  {
+    "code": "kw",
+    "name": "Kuwait",
+    "colors": [
+      {
+        "hex": "#CE1126",
+        "ratio": 0.2941
+      },
+      {
+        "hex": "#007A3D",
+        "ratio": 0.2939
+      },
+      {
+        "hex": "#FFFFFF",
+        "ratio": 0.2456
+      },
+      {
+        "hex": "#000000",
+        "ratio": 0.1664
+      }
+    ]
+  },
+  {
+    "code": "ky",
+    "name": "Cayman Islands (the)",
+    "colors": [
+      {
+        "hex": "#012169",
+        "ratio": 0.8154
+      },
+      {
+        "hex": "#FFFEFE",
+        "ratio": 0.0863
+      },
+      {
+        "hex": "#C8102E",
+        "ratio": 0.0854
+      },
+      {
+        "hex": "#C60C2B",
+        "ratio": 0.0129
+      }
+    ]
+  },
+  {
+    "code": "kz",
+    "name": "Kazakhstan",
+    "colors": [
+      {
+        "hex": "#00AFCA",
+        "ratio": 0.9424
+      },
+      {
+        "hex": "#FEC50B",
+        "ratio": 0.0461
+      },
+      {
+        "hex": "#0AB0C2",
+        "ratio": 0.0115
+      }
+    ]
+  },
+  {
+    "code": "la",
+    "name": "Lao People's Democratic Republic (the)",
+    "colors": [
+      {
+        "hex": "#CE1126",
+        "ratio": 0.4988
+      },
+      {
+        "hex": "#002868",
+        "ratio": 0.4001
+      },
+      {
+        "hex": "#FFFFFF",
+        "ratio": 0.0812
+      },
+      {
+        "hex": "#302258",
+        "ratio": 0.0199
+      }
+    ]
+  },
+  {
+    "code": "lb",
+    "name": "Lebanon",
+    "colors": [
+      {
+        "hex": "#ED1C24",
+        "ratio": 0.508
+      },
+      {
+        "hex": "#FFFFFF",
+        "ratio": 0.4163
+      },
+      {
+        "hex": "#01A651",
+        "ratio": 0.0608
+      },
+      {
+        "hex": "#FBC7C9",
+        "ratio": 0.0149
+      }
+    ]
+  },
+  {
+    "code": "lc",
+    "name": "Saint Lucia",
+    "colors": [
+      {
+        "hex": "#66CCFF",
+        "ratio": 0.8773
+      },
+      {
+        "hex": "#FCD116",
+        "ratio": 0.0657
+      },
+      {
+        "hex": "#010101",
+        "ratio": 0.0325
+      },
+      {
+        "hex": "#FDFEFE",
+        "ratio": 0.0245
+      }
+    ]
+  },
+  {
+    "code": "li",
+    "name": "Liechtenstein",
+    "colors": [
+      {
+        "hex": "#CE1126",
+        "ratio": 0.5203
+      },
+      {
+        "hex": "#002B7F",
+        "ratio": 0.4797
+      }
+    ]
+  },
+  {
+    "code": "lk",
+    "name": "Sri Lanka",
+    "colors": [
+      {
+        "hex": "#FFBE29",
+        "ratio": 0.4447
+      },
+      {
+        "hex": "#8D153A",
+        "ratio": 0.3036
+      },
+      {
+        "hex": "#EB7400",
+        "ratio": 0.1111
+      },
+      {
+        "hex": "#00534E",
+        "ratio": 0.1065
+      },
+      {
+        "hex": "#840D39",
+        "ratio": 0.0192
+      },
+      {
+        "hex": "#BA5733",
+        "ratio": 0.015
+      }
+    ]
+  },
+  {
+    "code": "lr",
+    "name": "Liberia",
+    "colors": [
+      {
+        "hex": "#BF0A30",
+        "ratio": 0.457
+      },
+      {
+        "hex": "#FFFFFF",
+        "ratio": 0.3859
+      },
+      {
+        "hex": "#002868",
+        "ratio": 0.0873
+      },
+      {
+        "hex": "#F9E9EC",
+        "ratio": 0.0167
+      },
+      {
+        "hex": "#CB3756",
+        "ratio": 0.0134
+      },
+      {
+        "hex": "#E291A2",
+        "ratio": 0.0133
+      },
+      {
+        "hex": "#EEBEC8",
+        "ratio": 0.0132
+      },
+      {
+        "hex": "#D6637B",
+        "ratio": 0.0131
+      }
+    ]
+  },
+  {
+    "code": "ls",
+    "name": "Lesotho",
+    "colors": [
+      {
+        "hex": "#FFFFFF",
+        "ratio": 0.3686
+      },
+      {
+        "hex": "#009543",
+        "ratio": 0.3037
+      },
+      {
+        "hex": "#00209F",
+        "ratio": 0.3007
+      },
+      {
+        "hex": "#010101",
+        "ratio": 0.0269
+      }
+    ]
+  },
+  {
+    "code": "lt",
+    "name": "Lithuania",
+    "colors": [
+      {
+        "hex": "#BE3A34",
+        "ratio": 0.3381
+      },
+      {
+        "hex": "#FFB81C",
+        "ratio": 0.3347
+      },
+      {
+        "hex": "#046A38",
+        "ratio": 0.3272
+      }
+    ]
+  },
+  {
+    "code": "lu",
+    "name": "Luxembourg",
+    "colors": [
+      {
+        "hex": "#00A3E0",
+        "ratio": 0.3381
+      },
+      {
+        "hex": "#EF3340",
+        "ratio": 0.3347
+      },
+      {
+        "hex": "#FFFFFF",
+        "ratio": 0.3272
+      }
+    ]
+  },
+  {
+    "code": "lv",
+    "name": "Latvia",
+    "colors": [
+      {
+        "hex": "#9D2235",
+        "ratio": 0.797
+      },
+      {
+        "hex": "#FFFFFF",
+        "ratio": 0.188
+      },
+      {
+        "hex": "#ECD4D7",
+        "ratio": 0.015
+      }
+    ]
+  },
+  {
+    "code": "ly",
+    "name": "Libya",
+    "colors": [
+      {
+        "hex": "#000000",
+        "ratio": 0.4884
+      },
+      {
+        "hex": "#E70013",
+        "ratio": 0.2558
+      },
+      {
+        "hex": "#239E46",
+        "ratio": 0.2558
+      }
+    ]
+  },
+  {
+    "code": "ma",
+    "name": "Morocco",
+    "colors": [
+      {
+        "hex": "#B7312C",
+        "ratio": 0.977
+      },
+      {
+        "hex": "#016341",
+        "ratio": 0.023
+      }
+    ]
+  },
+  {
+    "code": "mc",
+    "name": "Monaco",
+    "colors": [
+      {
+        "hex": "#FFFFFF",
+        "ratio": 0.5077
+      },
+      {
+        "hex": "#CE1126",
+        "ratio": 0.4923
+      }
+    ]
+  },
+  {
+    "code": "md",
+    "name": "Moldova (the Republic of)",
+    "colors": [
+      {
+        "hex": "#003DA5",
+        "ratio": 0.3616
+      },
+      {
+        "hex": "#C8102E",
+        "ratio": 0.3612
+      },
+      {
+        "hex": "#FFD100",
+        "ratio": 0.2772
+      }
+    ]
+  },
+  {
+    "code": "me",
+    "name": "Montenegro",
+    "colors": [
+      {
+        "hex": "#C40308",
+        "ratio": 0.783
+      },
+      {
+        "hex": "#D3AD3B",
+        "ratio": 0.1581
+      },
+      {
+        "hex": "#CD9934",
+        "ratio": 0.0289
+      },
+      {
+        "hex": "#CE7229",
+        "ratio": 0.0159
+      },
+      {
+        "hex": "#C51A0F",
+        "ratio": 0.0141
+      }
+    ]
+  },
+  {
+    "code": "mf",
+    "name": "Saint Martin (French part)",
+    "colors": [
+      {
+        "hex": "#FFFFFF",
+        "ratio": 0.335
+      },
+      {
+        "hex": "#EC1920",
+        "ratio": 0.335
+      },
+      {
+        "hex": "#051440",
+        "ratio": 0.3299
+      }
+    ]
+  },
+  {
+    "code": "mg",
+    "name": "Madagascar",
+    "colors": [
+      {
+        "hex": "#007E3A",
+        "ratio": 0.3359
+      },
+      {
+        "hex": "#FC3D32",
+        "ratio": 0.3333
+      },
+      {
+        "hex": "#FFFFFF",
+        "ratio": 0.3308
+      }
+    ]
+  },
+  {
+    "code": "mh",
+    "name": "Marshall Islands (the)",
+    "colors": [
+      {
+        "hex": "#003087",
+        "ratio": 0.767
+      },
+      {
+        "hex": "#FFFFFF",
+        "ratio": 0.1308
+      },
+      {
+        "hex": "#E57200",
+        "ratio": 0.1022
+      }
+    ]
+  },
+  {
+    "code": "mk",
+    "name": "North Macedonia",
+    "colors": [
+      {
+        "hex": "#D82126",
+        "ratio": 0.689
+      },
+      {
+        "hex": "#F8E92E",
+        "ratio": 0.311
+      }
+    ]
+  },
+  {
+    "code": "ml",
+    "name": "Mali",
+    "colors": [
+      {
+        "hex": "#FCD116",
+        "ratio": 0.335
+      },
+      {
+        "hex": "#CE1126",
+        "ratio": 0.335
+      },
+      {
+        "hex": "#14B53A",
+        "ratio": 0.3299
+      }
+    ]
+  },
+  {
+    "code": "mm",
+    "name": "Myanmar",
+    "colors": [
+      {
+        "hex": "#FECB00",
+        "ratio": 0.3342
+      },
+      {
+        "hex": "#EA2839",
+        "ratio": 0.3156
+      },
+      {
+        "hex": "#34B233",
+        "ratio": 0.2504
+      },
+      {
+        "hex": "#FFFFFF",
+        "ratio": 0.0998
+      }
+    ]
+  },
+  {
+    "code": "mn",
+    "name": "Mongolia",
+    "colors": [
+      {
+        "hex": "#DA2032",
+        "ratio": 0.5852
+      },
+      {
+        "hex": "#0066B3",
+        "ratio": 0.3289
+      },
+      {
+        "hex": "#FFD700",
+        "ratio": 0.0416
+      },
+      {
+        "hex": "#FFE100",
+        "ratio": 0.0135
+      },
+      {
+        "hex": "#E11E2E",
+        "ratio": 0.0103
+      },
+      {
+        "hex": "#90375D",
+        "ratio": 0.0103
+      },
+      {
+        "hex": "#0068B6",
+        "ratio": 0.0103
+      }
+    ]
+  },
+  {
+    "code": "mo",
+    "name": "Macao",
+    "colors": [
+      {
+        "hex": "#00785E",
+        "ratio": 0.9358
+      },
+      {
+        "hex": "#FFFFFF",
+        "ratio": 0.0537
+      },
+      {
+        "hex": "#00775E",
+        "ratio": 0.0105
+      }
+    ]
+  },
+  {
+    "code": "mp",
+    "name": "Northern Mariana Islands (the)",
+    "colors": [
+      {
+        "hex": "#0033A1",
+        "ratio": 0.9315
+      },
+      {
+        "hex": "#FDFDFD",
+        "ratio": 0.041
+      },
+      {
+        "hex": "#00319E",
+        "ratio": 0.0275
+      }
+    ]
+  },
+  {
+    "code": "mq",
+    "name": "Martinique",
+    "colors": [
+      {
+        "hex": "#FFFFFF",
+        "ratio": 0.335
+      },
+      {
+        "hex": "#EC1920",
+        "ratio": 0.335
+      },
+      {
+        "hex": "#051440",
+        "ratio": 0.3299
+      }
+    ]
+  },
+  {
+    "code": "mr",
+    "name": "Mauritania",
+    "colors": [
+      {
+        "hex": "#00A95C",
+        "ratio": 0.5397
+      },
+      {
+        "hex": "#D01C1F",
+        "ratio": 0.3981
+      },
+      {
+        "hex": "#FFD700",
+        "ratio": 0.047
+      },
+      {
+        "hex": "#7D5538",
+        "ratio": 0.0152
+      }
+    ]
+  },
+  {
+    "code": "ms",
+    "name": "Montserrat",
+    "colors": [
+      {
+        "hex": "#012169",
+        "ratio": 0.7857
+      },
+      {
+        "hex": "#C8102E",
+        "ratio": 0.078
+      },
+      {
+        "hex": "#FFFEFF",
+        "ratio": 0.0748
+      },
+      {
+        "hex": "#00A2BD",
+        "ratio": 0.0461
+      },
+      {
+        "hex": "#A53D08",
+        "ratio": 0.0153
+      }
+    ]
+  },
+  {
+    "code": "mt",
+    "name": "Malta",
+    "colors": [
+      {
+        "hex": "#C8102E",
+        "ratio": 0.5114
+      },
+      {
+        "hex": "#FFFFFF",
+        "ratio": 0.4777
+      },
+      {
+        "hex": "#CCCCCC",
+        "ratio": 0.0109
+      }
+    ]
+  },
+  {
+    "code": "mu",
+    "name": "Mauritius",
+    "colors": [
+      {
+        "hex": "#00A551",
+        "ratio": 0.2557
+      },
+      {
+        "hex": "#EA2839",
+        "ratio": 0.2532
+      },
+      {
+        "hex": "#1A206D",
+        "ratio": 0.2455
+      },
+      {
+        "hex": "#FFD500",
+        "ratio": 0.2455
+      }
+    ]
+  },
+  {
+    "code": "mv",
+    "name": "Maldives",
+    "colors": [
+      {
+        "hex": "#D21034",
+        "ratio": 0.6764
+      },
+      {
+        "hex": "#007E3A",
+        "ratio": 0.3121
+      },
+      {
+        "hex": "#FFFFFF",
+        "ratio": 0.0114
+      }
+    ]
+  },
+  {
+    "code": "mw",
+    "name": "Malawi",
+    "colors": [
+      {
+        "hex": "#CE1126",
+        "ratio": 0.3786
+      },
+      {
+        "hex": "#339E35",
+        "ratio": 0.3446
+      },
+      {
+        "hex": "#000000",
+        "ratio": 0.2768
+      }
+    ]
+  },
+  {
+    "code": "mx",
+    "name": "Mexico",
+    "colors": [
+      {
+        "hex": "#CE1126",
+        "ratio": 0.3562
+      },
+      {
+        "hex": "#006847",
+        "ratio": 0.3508
+      },
+      {
+        "hex": "#FFFFFF",
+        "ratio": 0.293
+      }
+    ]
+  },
+  {
+    "code": "my",
+    "name": "Malaysia",
+    "colors": [
+      {
+        "hex": "#FFFFFF",
+        "ratio": 0.3474
+      },
+      {
+        "hex": "#CC0000",
+        "ratio": 0.346
+      },
+      {
+        "hex": "#000066",
+        "ratio": 0.2404
+      },
+      {
+        "hex": "#E57F7F",
+        "ratio": 0.0386
+      },
+      {
+        "hex": "#FFCD00",
+        "ratio": 0.0276
+      }
+    ]
+  },
+  {
+    "code": "mz",
+    "name": "Mozambique",
+    "colors": [
+      {
+        "hex": "#FCE100",
+        "ratio": 0.2892
+      },
+      {
+        "hex": "#007168",
+        "ratio": 0.2772
+      },
+      {
+        "hex": "#000000",
+        "ratio": 0.2121
+      },
+      {
+        "hex": "#D21034",
+        "ratio": 0.1728
+      },
+      {
+        "hex": "#FFFFFF",
+        "ratio": 0.0373
+      },
+      {
+        "hex": "#BFBFBF",
+        "ratio": 0.0115
+      }
+    ]
+  },
+  {
+    "code": "na",
+    "name": "Namibia",
+    "colors": [
+      {
+        "hex": "#009543",
+        "ratio": 0.3315
+      },
+      {
+        "hex": "#003580",
+        "ratio": 0.2949
+      },
+      {
+        "hex": "#D21034",
+        "ratio": 0.278
+      },
+      {
+        "hex": "#FFFEFF",
+        "ratio": 0.073
+      },
+      {
+        "hex": "#FFCE00",
+        "ratio": 0.0225
+      }
+    ]
+  },
+  {
+    "code": "nc",
+    "name": "New Caledonia",
+    "colors": [
+      {
+        "hex": "#FFFFFF",
+        "ratio": 0.335
+      },
+      {
+        "hex": "#EC1920",
+        "ratio": 0.335
+      },
+      {
+        "hex": "#051440",
+        "ratio": 0.3299
+      }
+    ]
+  },
+  {
+    "code": "ne",
+    "name": "Niger (the)",
+    "colors": [
+      {
+        "hex": "#E05206",
+        "ratio": 0.3863
+      },
+      {
+        "hex": "#0DB02B",
+        "ratio": 0.3381
+      },
+      {
+        "hex": "#FFFFFF",
+        "ratio": 0.2756
+      }
+    ]
+  },
+  {
+    "code": "nf",
+    "name": "Norfolk Island",
+    "colors": [
+      {
+        "hex": "#007934",
+        "ratio": 0.666
+      },
+      {
+        "hex": "#FFFFFF",
+        "ratio": 0.3037
+      },
+      {
+        "hex": "#00752E",
+        "ratio": 0.0186
+      },
+      {
+        "hex": "#238C50",
+        "ratio": 0.0117
+      }
+    ]
+  },
+  {
+    "code": "ng",
+    "name": "Nigeria",
+    "colors": [
+      {
+        "hex": "#008751",
+        "ratio": 0.65
+      },
+      {
+        "hex": "#FFFFFF",
+        "ratio": 0.33
+      },
+      {
+        "hex": "#00834B",
+        "ratio": 0.01
+      },
+      {
+        "hex": "#56AF8C",
+        "ratio": 0.01
+      }
+    ]
+  },
+  {
+    "code": "ni",
+    "name": "Nicaragua",
+    "colors": [
+      {
+        "hex": "#0067C6",
+        "ratio": 0.679
+      },
+      {
+        "hex": "#FFFFFF",
+        "ratio": 0.3056
+      },
+      {
+        "hex": "#ABCDEC",
+        "ratio": 0.0154
+      }
+    ]
+  },
+  {
+    "code": "nl",
+    "name": "Netherlands (Kingdom of the)",
+    "colors": [
+      {
+        "hex": "#21468B",
+        "ratio": 0.3381
+      },
+      {
+        "hex": "#AE1C28",
+        "ratio": 0.3347
+      },
+      {
+        "hex": "#FFFFFF",
+        "ratio": 0.3272
+      }
+    ]
+  },
+  {
+    "code": "no",
+    "name": "Norway",
+    "colors": [
+      {
+        "hex": "#BA0C2F",
+        "ratio": 0.5974
+      },
+      {
+        "hex": "#00205B",
+        "ratio": 0.19
+      },
+      {
+        "hex": "#FFFEFE",
+        "ratio": 0.1482
+      },
+      {
+        "hex": "#ECEEF3",
+        "ratio": 0.0137
+      },
+      {
+        "hex": "#445C87",
+        "ratio": 0.0137
+      },
+      {
+        "hex": "#CB4964",
+        "ratio": 0.0124
+      },
+      {
+        "hex": "#B60024",
+        "ratio": 0.0123
+      },
+      {
+        "hex": "#F8E7EB",
+        "ratio": 0.0123
+      }
+    ]
+  },
+  {
+    "code": "np",
+    "name": "Nepal",
+    "colors": [
+      {
+        "hex": "#DC143C",
+        "ratio": 0.4773
+      },
+      {
+        "hex": "#013894",
+        "ratio": 0.2394
+      },
+      {
+        "hex": "#FFFEFE",
+        "ratio": 0.1234
+      },
+      {
+        "hex": "#E41238",
+        "ratio": 0.0521
+      },
+      {
+        "hex": "#D9143D",
+        "ratio": 0.0402
+      },
+      {
+        "hex": "#DA0B35",
+        "ratio": 0.0275
+      },
+      {
+        "hex": "#DD143B",
+        "ratio": 0.0143
+      },
+      {
+        "hex": "#7D2462",
+        "ratio": 0.014
+      },
+      {
+        "hex": "#35307E",
+        "ratio": 0.0119
+      }
+    ]
+  },
+  {
+    "code": "nr",
+    "name": "Nauru",
+    "colors": [
+      {
+        "hex": "#002B7F",
+        "ratio": 0.8987
+      },
+      {
+        "hex": "#FFC61E",
+        "ratio": 0.0837
+      },
+      {
+        "hex": "#FEFFFF",
+        "ratio": 0.0175
+      }
+    ]
+  },
+  {
+    "code": "nu",
+    "name": "Niue",
+    "colors": [
+      {
+        "hex": "#FEDD00",
+        "ratio": 0.8016
+      },
+      {
+        "hex": "#FFFFFF",
+        "ratio": 0.0699
+      },
+      {
+        "hex": "#012169",
+        "ratio": 0.0677
+      },
+      {
+        "hex": "#C8102E",
+        "ratio": 0.049
+      },
+      {
+        "hex": "#C60B2C",
+        "ratio": 0.0118
+      }
+    ]
+  },
+  {
+    "code": "nz",
+    "name": "New Zealand",
+    "colors": [
+      {
+        "hex": "#012169",
+        "ratio": 0.8517
+      },
+      {
+        "hex": "#C8102E",
+        "ratio": 0.0765
+      },
+      {
+        "hex": "#FFFEFF",
+        "ratio": 0.0718
+      }
+    ]
+  },
+  {
+    "code": "om",
+    "name": "Oman",
+    "colors": [
+      {
+        "hex": "#DB161B",
+        "ratio": 0.4822
+      },
+      {
+        "hex": "#FFFFFF",
+        "ratio": 0.2602
+      },
+      {
+        "hex": "#008000",
+        "ratio": 0.2576
+      }
+    ]
+  },
+  {
+    "code": "pa",
+    "name": "Panama",
+    "colors": [
+      {
+        "hex": "#FFFFFF",
+        "ratio": 0.4788
+      },
+      {
+        "hex": "#A6192E",
+        "ratio": 0.2608
+      },
+      {
+        "hex": "#002855",
+        "ratio": 0.2605
+      }
+    ]
+  },
+  {
+    "code": "pe",
+    "name": "Peru",
+    "colors": [
+      {
+        "hex": "#D91023",
+        "ratio": 0.7138
+      },
+      {
+        "hex": "#FFFFFF",
+        "ratio": 0.2755
+      },
+      {
+        "hex": "#E34C5A",
+        "ratio": 0.0108
+      }
+    ]
+  },
+  {
+    "code": "pf",
+    "name": "French Polynesia",
+    "colors": [
+      {
+        "hex": "#CE1126",
+        "ratio": 0.5423
+      },
+      {
+        "hex": "#FFFFFF",
+        "ratio": 0.4237
+      },
+      {
+        "hex": "#FF9C10",
+        "ratio": 0.0181
+      },
+      {
+        "hex": "#F3C4C9",
+        "ratio": 0.0159
+      }
+    ]
+  },
+  {
+    "code": "pg",
+    "name": "Papua New Guinea",
+    "colors": [
+      {
+        "hex": "#000000",
+        "ratio": 0.4935
+      },
+      {
+        "hex": "#CE1126",
+        "ratio": 0.4448
+      },
+      {
+        "hex": "#FCD116",
+        "ratio": 0.0488
+      },
+      {
+        "hex": "#FDFDFD",
+        "ratio": 0.013
+      }
+    ]
+  },
+  {
+    "code": "ph",
+    "name": "Philippines (the)",
+    "colors": [
+      {
+        "hex": "#0038A8",
+        "ratio": 0.4054
+      },
+      {
+        "hex": "#CE1126",
+        "ratio": 0.4049
+      },
+      {
+        "hex": "#FFFFFF",
+        "ratio": 0.1709
+      },
+      {
+        "hex": "#FCD118",
+        "ratio": 0.0188
+      }
+    ]
+  },
+  {
+    "code": "pk",
+    "name": "Pakistan",
+    "colors": [
+      {
+        "hex": "#01411C",
+        "ratio": 0.6862
+      },
+      {
+        "hex": "#FFFFFF",
+        "ratio": 0.3138
+      }
+    ]
+  },
+  {
+    "code": "pl",
+    "name": "Poland",
+    "colors": [
+      {
+        "hex": "#FFFFFF",
+        "ratio": 0.5025
+      },
+      {
+        "hex": "#DC143C",
+        "ratio": 0.4975
+      }
+    ]
+  },
+  {
+    "code": "pm",
+    "name": "Saint Pierre and Miquelon",
+    "colors": [
+      {
+        "hex": "#FFFFFF",
+        "ratio": 0.335
+      },
+      {
+        "hex": "#EC1920",
+        "ratio": 0.335
+      },
+      {
+        "hex": "#051440",
+        "ratio": 0.3299
+      }
+    ]
+  },
+  {
+    "code": "pn",
+    "name": "Pitcairn",
+    "colors": [
+      {
+        "hex": "#012169",
+        "ratio": 0.7769
+      },
+      {
+        "hex": "#C8102E",
+        "ratio": 0.081
+      },
+      {
+        "hex": "#FFFEFF",
+        "ratio": 0.0777
+      },
+      {
+        "hex": "#327221",
+        "ratio": 0.0352
+      },
+      {
+        "hex": "#F9E217",
+        "ratio": 0.017
+      },
+      {
+        "hex": "#016EC6",
+        "ratio": 0.0123
+      }
+    ]
+  },
+  {
+    "code": "pr",
+    "name": "Puerto Rico",
+    "colors": [
+      {
+        "hex": "#FF0000",
+        "ratio": 0.4392
+      },
+      {
+        "hex": "#FFFFFF",
+        "ratio": 0.2772
+      },
+      {
+        "hex": "#0066FF",
+        "ratio": 0.261
+      },
+      {
+        "hex": "#FF6565",
+        "ratio": 0.0116
+      },
+      {
+        "hex": "#FF3232",
+        "ratio": 0.011
+      }
+    ]
+  },
+  {
+    "code": "ps",
+    "name": "Palestine, State of",
+    "colors": [
+      {
+        "hex": "#000000",
+        "ratio": 0.2988
+      },
+      {
+        "hex": "#007A3D",
+        "ratio": 0.2988
+      },
+      {
+        "hex": "#FFFFFF",
+        "ratio": 0.2365
+      },
+      {
+        "hex": "#CE1126",
+        "ratio": 0.166
+      }
+    ]
+  },
+  {
+    "code": "pt",
+    "name": "Portugal",
+    "colors": [
+      {
+        "hex": "#FF0000",
+        "ratio": 0.6062
+      },
+      {
+        "hex": "#006600",
+        "ratio": 0.3639
+      },
+      {
+        "hex": "#FDFD00",
+        "ratio": 0.015
+      },
+      {
+        "hex": "#FFFFFF",
+        "ratio": 0.015
+      }
+    ]
+  },
+  {
+    "code": "pw",
+    "name": "Palau",
+    "colors": [
+      {
+        "hex": "#0099FF",
+        "ratio": 0.8268
+      },
+      {
+        "hex": "#FFFF00",
+        "ratio": 0.1732
+      }
+    ]
+  },
+  {
+    "code": "py",
+    "name": "Paraguay",
+    "colors": [
+      {
+        "hex": "#0038A8",
+        "ratio": 0.3462
+      },
+      {
+        "hex": "#D52B1E",
+        "ratio": 0.3427
+      },
+      {
+        "hex": "#FFFFFF",
+        "ratio": 0.3111
+      }
+    ]
+  },
+  {
+    "code": "qa",
+    "name": "Qatar",
+    "colors": [
+      {
+        "hex": "#8D1B3D",
+        "ratio": 0.6804
+      },
+      {
+        "hex": "#FFFFFF",
+        "ratio": 0.3196
+      }
+    ]
+  },
+  {
+    "code": "re",
+    "name": "Réunion",
+    "colors": [
+      {
+        "hex": "#FFFFFF",
+        "ratio": 0.335
+      },
+      {
+        "hex": "#EC1920",
+        "ratio": 0.335
+      },
+      {
+        "hex": "#051440",
+        "ratio": 0.3299
+      }
+    ]
+  },
+  {
+    "code": "ro",
+    "name": "Romania",
+    "colors": [
+      {
+        "hex": "#002B7F",
+        "ratio": 0.3333
+      },
+      {
+        "hex": "#FCD116",
+        "ratio": 0.3333
+      },
+      {
+        "hex": "#CE1126",
+        "ratio": 0.3333
+      }
+    ]
+  },
+  {
+    "code": "rs",
+    "name": "Serbia",
+    "colors": [
+      {
+        "hex": "#FFFFFF",
+        "ratio": 0.3621
+      },
+      {
+        "hex": "#E40046",
+        "ratio": 0.3582
+      },
+      {
+        "hex": "#012169",
+        "ratio": 0.2647
+      },
+      {
+        "hex": "#D3D1D5",
+        "ratio": 0.015
+      }
+    ]
+  },
+  {
+    "code": "ru",
+    "name": "Russian Federation (the)",
+    "colors": [
+      {
+        "hex": "#FFFFFF",
+        "ratio": 0.337
+      },
+      {
+        "hex": "#DA291C",
+        "ratio": 0.337
+      },
+      {
+        "hex": "#0032A0",
+        "ratio": 0.3261
+      }
+    ]
+  },
+  {
+    "code": "rw",
+    "name": "Rwanda",
+    "colors": [
+      {
+        "hex": "#00A1DE",
+        "ratio": 0.4864
+      },
+      {
+        "hex": "#20603D",
+        "ratio": 0.262
+      },
+      {
+        "hex": "#FAD201",
+        "ratio": 0.2516
+      }
+    ]
+  },
+  {
+    "code": "sa",
+    "name": "Saudi Arabia",
+    "colors": [
+      {
+        "hex": "#006C35",
+        "ratio": 0.9747
+      },
+      {
+        "hex": "#FDFEFE",
+        "ratio": 0.0253
+      }
+    ]
+  },
+  {
+    "code": "sb",
+    "name": "Solomon Islands",
+    "colors": [
+      {
+        "hex": "#215B33",
+        "ratio": 0.4616
+      },
+      {
+        "hex": "#0051BA",
+        "ratio": 0.4134
+      },
+      {
+        "hex": "#FCD116",
+        "ratio": 0.0918
+      },
+      {
+        "hex": "#FEFEFF",
+        "ratio": 0.021
+      },
+      {
+        "hex": "#004CB9",
+        "ratio": 0.0122
+      }
+    ]
+  },
+  {
+    "code": "sc",
+    "name": "Seychelles",
+    "colors": [
+      {
+        "hex": "#D62828",
+        "ratio": 0.336
+      },
+      {
+        "hex": "#007A3D",
+        "ratio": 0.1696
+      },
+      {
+        "hex": "#003F87",
+        "ratio": 0.1671
+      },
+      {
+        "hex": "#FFFFFF",
+        "ratio": 0.1671
+      },
+      {
+        "hex": "#FCD856",
+        "ratio": 0.1602
+      }
+    ]
+  },
+  {
+    "code": "sd",
+    "name": "Sudan (the)",
+    "colors": [
+      {
+        "hex": "#D21034",
+        "ratio": 0.2991
+      },
+      {
+        "hex": "#000000",
+        "ratio": 0.2991
+      },
+      {
+        "hex": "#FFFFFF",
+        "ratio": 0.2367
+      },
+      {
+        "hex": "#007229",
+        "ratio": 0.1651
+      }
+    ]
+  },
+  {
+    "code": "se",
+    "name": "Sweden",
+    "colors": [
+      {
+        "hex": "#006AA7",
+        "ratio": 0.7005
+      },
+      {
+        "hex": "#FECC00",
+        "ratio": 0.2864
+      },
+      {
+        "hex": "#CCB921",
+        "ratio": 0.013
+      }
+    ]
+  },
+  {
+    "code": "sg",
+    "name": "Singapore",
+    "colors": [
+      {
+        "hex": "#FFFFFF",
+        "ratio": 0.5303
+      },
+      {
+        "hex": "#ED2939",
+        "ratio": 0.4697
+      }
+    ]
+  },
+  {
+    "code": "sh",
+    "name": "Saint Helena, Ascension and Tristan da Cunha",
+    "colors": [
+      {
+        "hex": "#C8102E",
+        "ratio": 0.3415
+      },
+      {
+        "hex": "#FFFFFF",
+        "ratio": 0.3182
+      },
+      {
+        "hex": "#012169",
+        "ratio": 0.2845
+      },
+      {
+        "hex": "#C70B29",
+        "ratio": 0.0189
+      },
+      {
+        "hex": "#D33F57",
+        "ratio": 0.0148
+      },
+      {
+        "hex": "#F9E5E8",
+        "ratio": 0.0114
+      },
+      {
+        "hex": "#CE2D48",
+        "ratio": 0.0109
+      }
+    ]
+  },
+  {
+    "code": "si",
+    "name": "Slovenia",
+    "colors": [
+      {
+        "hex": "#FF0000",
+        "ratio": 0.341
+      },
+      {
+        "hex": "#005CE5",
+        "ratio": 0.3301
+      },
+      {
+        "hex": "#FFFFFF",
+        "ratio": 0.3289
+      }
+    ]
+  },
+  {
+    "code": "sj",
+    "name": "Svalbard and Jan Mayen",
+    "colors": [
+      {
+        "hex": "#BA0C2F",
+        "ratio": 0.5974
+      },
+      {
+        "hex": "#00205B",
+        "ratio": 0.19
+      },
+      {
+        "hex": "#FFFEFE",
+        "ratio": 0.1482
+      },
+      {
+        "hex": "#ECEEF3",
+        "ratio": 0.0137
+      },
+      {
+        "hex": "#445C87",
+        "ratio": 0.0137
+      },
+      {
+        "hex": "#CB4964",
+        "ratio": 0.0124
+      },
+      {
+        "hex": "#B60024",
+        "ratio": 0.0123
+      },
+      {
+        "hex": "#F8E7EB",
+        "ratio": 0.0123
+      }
+    ]
+  },
+  {
+    "code": "sk",
+    "name": "Slovakia",
+    "colors": [
+      {
+        "hex": "#EE1C25",
+        "ratio": 0.396
+      },
+      {
+        "hex": "#FFFFFF",
+        "ratio": 0.3398
+      },
+      {
+        "hex": "#0B4EA2",
+        "ratio": 0.2643
+      }
+    ]
+  },
+  {
+    "code": "sl",
+    "name": "Sierra Leone",
+    "colors": [
+      {
+        "hex": "#0072C6",
+        "ratio": 0.3381
+      },
+      {
+        "hex": "#1EB53A",
+        "ratio": 0.3347
+      },
+      {
+        "hex": "#FFFFFF",
+        "ratio": 0.3272
+      }
+    ]
+  },
+  {
+    "code": "sm",
+    "name": "San Marino",
+    "colors": [
+      {
+        "hex": "#FFFFFF",
+        "ratio": 0.5144
+      },
+      {
+        "hex": "#62B5E5",
+        "ratio": 0.4856
+      }
+    ]
+  },
+  {
+    "code": "sn",
+    "name": "Senegal",
+    "colors": [
+      {
+        "hex": "#00853F",
+        "ratio": 0.3538
+      },
+      {
+        "hex": "#E31B23",
+        "ratio": 0.3352
+      },
+      {
+        "hex": "#FDEF42",
+        "ratio": 0.311
+      }
+    ]
+  },
+  {
+    "code": "so",
+    "name": "Somalia",
+    "colors": [
+      {
+        "hex": "#4189DD",
+        "ratio": 0.9599
+      },
+      {
+        "hex": "#FFFFFF",
+        "ratio": 0.0401
+      }
+    ]
+  },
+  {
+    "code": "sr",
+    "name": "Suriname",
+    "colors": [
+      {
+        "hex": "#007A33",
+        "ratio": 0.3965
+      },
+      {
+        "hex": "#C8102E",
+        "ratio": 0.3653
+      },
+      {
+        "hex": "#FFFFFF",
+        "ratio": 0.1811
+      },
+      {
+        "hex": "#FFCD00",
+        "ratio": 0.0269
+      },
+      {
+        "hex": "#66AF85",
+        "ratio": 0.0151
+      },
+      {
+        "hex": "#F9E7EA",
+        "ratio": 0.0151
+      }
+    ]
+  },
+  {
+    "code": "ss",
+    "name": "South Sudan",
+    "colors": [
+      {
+        "hex": "#000000",
+        "ratio": 0.2626
+      },
+      {
+        "hex": "#078930",
+        "ratio": 0.2626
+      },
+      {
+        "hex": "#0F47AF",
+        "ratio": 0.1975
+      },
+      {
+        "hex": "#DA121A",
+        "ratio": 0.1878
+      },
+      {
+        "hex": "#FFFFFF",
+        "ratio": 0.0665
+      },
+      {
+        "hex": "#FCDE08",
+        "ratio": 0.0122
+      },
+      {
+        "hex": "#EE9498",
+        "ratio": 0.0108
+      }
+    ]
+  },
+  {
+    "code": "st",
+    "name": "Sao Tome and Principe",
+    "colors": [
+      {
+        "hex": "#12AD2B",
+        "ratio": 0.5368
+      },
+      {
+        "hex": "#FFCE00",
+        "ratio": 0.3204
+      },
+      {
+        "hex": "#D21034",
+        "ratio": 0.1234
+      },
+      {
+        "hex": "#010100",
+        "ratio": 0.0194
+      }
+    ]
+  },
+  {
+    "code": "sv",
+    "name": "El Salvador",
+    "colors": [
+      {
+        "hex": "#0047AB",
+        "ratio": 0.683
+      },
+      {
+        "hex": "#FFFFFF",
+        "ratio": 0.3012
+      },
+      {
+        "hex": "#AAC2E3",
+        "ratio": 0.0158
+      }
+    ]
+  },
+  {
+    "code": "sx",
+    "name": "Sint Maarten (Dutch part)",
+    "colors": [
+      {
+        "hex": "#DC171D",
+        "ratio": 0.4225
+      },
+      {
+        "hex": "#012A87",
+        "ratio": 0.4148
+      },
+      {
+        "hex": "#FFFFFF",
+        "ratio": 0.1627
+      }
+    ]
+  },
+  {
+    "code": "sy",
+    "name": "Syrian Arab Republic (the)",
+    "colors": [
+      {
+        "hex": "#000000",
+        "ratio": 0.3433
+      },
+      {
+        "hex": "#007A3D",
+        "ratio": 0.3399
+      },
+      {
+        "hex": "#FFFFFF",
+        "ratio": 0.2806
+      },
+      {
+        "hex": "#CE1126",
+        "ratio": 0.0361
+      }
+    ]
+  },
+  {
+    "code": "sz",
+    "name": "Eswatini",
+    "colors": [
+      {
+        "hex": "#3E5EB9",
+        "ratio": 0.3856
+      },
+      {
+        "hex": "#B10C0C",
+        "ratio": 0.3246
+      },
+      {
+        "hex": "#FFD900",
+        "ratio": 0.1291
+      },
+      {
+        "hex": "#010101",
+        "ratio": 0.0582
+      },
+      {
+        "hex": "#FFFFFF",
+        "ratio": 0.058
+      },
+      {
+        "hex": "#4A66AD",
+        "ratio": 0.016
+      },
+      {
+        "hex": "#C43F09",
+        "ratio": 0.0159
+      },
+      {
+        "hex": "#3D5DA7",
+        "ratio": 0.0125
+      }
+    ]
+  },
+  {
+    "code": "tc",
+    "name": "Turks and Caicos Islands (the)",
+    "colors": [
+      {
+        "hex": "#012169",
+        "ratio": 0.8173
+      },
+      {
+        "hex": "#CE1126",
+        "ratio": 0.0851
+      },
+      {
+        "hex": "#FFFEFF",
+        "ratio": 0.0748
+      },
+      {
+        "hex": "#FCD116",
+        "ratio": 0.0229
+      }
+    ]
+  },
+  {
+    "code": "td",
+    "name": "Chad",
+    "colors": [
+      {
+        "hex": "#FFCD00",
+        "ratio": 0.335
+      },
+      {
+        "hex": "#C8102E",
+        "ratio": 0.335
+      },
+      {
+        "hex": "#00205B",
+        "ratio": 0.3299
+      }
+    ]
+  },
+  {
+    "code": "tf",
+    "name": "French Southern Territories (the)",
+    "colors": [
+      {
+        "hex": "#002395",
+        "ratio": 0.8495
+      },
+      {
+        "hex": "#FFFFFF",
+        "ratio": 0.0969
+      },
+      {
+        "hex": "#ED2939",
+        "ratio": 0.0536
+      }
+    ]
+  },
+  {
+    "code": "tg",
+    "name": "Togo",
+    "colors": [
+      {
+        "hex": "#006A4E",
+        "ratio": 0.4472
+      },
+      {
+        "hex": "#FFCE00",
+        "ratio": 0.3279
+      },
+      {
+        "hex": "#D21034",
+        "ratio": 0.1902
+      },
+      {
+        "hex": "#FFFEFE",
+        "ratio": 0.0222
+      },
+      {
+        "hex": "#5D8E32",
+        "ratio": 0.0126
+      }
+    ]
+  },
+  {
+    "code": "th",
+    "name": "Thailand",
+    "colors": [
+      {
+        "hex": "#A51931",
+        "ratio": 0.332
+      },
+      {
+        "hex": "#2D2A4A",
+        "ratio": 0.3213
+      },
+      {
+        "hex": "#F4F5F8",
+        "ratio": 0.3137
+      },
+      {
+        "hex": "#E7D0D6",
+        "ratio": 0.0181
+      },
+      {
+        "hex": "#6E6D84",
+        "ratio": 0.015
+      }
+    ]
+  },
+  {
+    "code": "tj",
+    "name": "Tajikistan",
+    "colors": [
+      {
+        "hex": "#FFFFFF",
+        "ratio": 0.4139
+      },
+      {
+        "hex": "#CC0000",
+        "ratio": 0.293
+      },
+      {
+        "hex": "#006600",
+        "ratio": 0.293
+      }
+    ]
+  },
+  {
+    "code": "tk",
+    "name": "Tokelau",
+    "colors": [
+      {
+        "hex": "#012169",
+        "ratio": 0.726
+      },
+      {
+        "hex": "#FFD100",
+        "ratio": 0.274
+      }
+    ]
+  },
+  {
+    "code": "tl",
+    "name": "Timor-Leste",
+    "colors": [
+      {
+        "hex": "#DC241F",
+        "ratio": 0.7638
+      },
+      {
+        "hex": "#000000",
+        "ratio": 0.1499
+      },
+      {
+        "hex": "#FFC726",
+        "ratio": 0.0729
+      },
+      {
+        "hex": "#FEFEFE",
+        "ratio": 0.0134
+      }
+    ]
+  },
+  {
+    "code": "tm",
+    "name": "Turkmenistan",
+    "colors": [
+      {
+        "hex": "#00843D",
+        "ratio": 0.9447
+      },
+      {
+        "hex": "#D22730",
+        "ratio": 0.0553
+      }
+    ]
+  },
+  {
+    "code": "tn",
+    "name": "Tunisia",
+    "colors": [
+      {
+        "hex": "#E70013",
+        "ratio": 0.9137
+      },
+      {
+        "hex": "#FFFFFF",
+        "ratio": 0.0863
+      }
+    ]
+  },
+  {
+    "code": "to",
+    "name": "Tonga",
+    "colors": [
+      {
+        "hex": "#C10000",
+        "ratio": 0.8353
+      },
+      {
+        "hex": "#FFFFFF",
+        "ratio": 0.1647
+      }
+    ]
+  },
+  {
+    "code": "tr",
+    "name": "Türkiye",
+    "colors": [
+      {
+        "hex": "#E30A17",
+        "ratio": 0.9458
+      },
+      {
+        "hex": "#FFFFFF",
+        "ratio": 0.0542
+      }
+    ]
+  },
+  {
+    "code": "tt",
+    "name": "Trinidad and Tobago",
+    "colors": [
+      {
+        "hex": "#CE1126",
+        "ratio": 0.7057
+      },
+      {
+        "hex": "#000000",
+        "ratio": 0.2035
+      },
+      {
+        "hex": "#FFFEFE",
+        "ratio": 0.0908
+      }
+    ]
+  },
+  {
+    "code": "tv",
+    "name": "Tuvalu",
+    "colors": [
+      {
+        "hex": "#009CDE",
+        "ratio": 0.7614
+      },
+      {
+        "hex": "#C8102E",
+        "ratio": 0.0759
+      },
+      {
+        "hex": "#FFFFFF",
+        "ratio": 0.0721
+      },
+      {
+        "hex": "#012169",
+        "ratio": 0.0648
+      },
+      {
+        "hex": "#FEDE00",
+        "ratio": 0.0259
+      }
+    ]
+  },
+  {
+    "code": "tw",
+    "name": "Taiwan (Province of China)",
+    "colors": [
+      {
+        "hex": "#FE0000",
+        "ratio": 0.7631
+      },
+      {
+        "hex": "#000095",
+        "ratio": 0.2101
+      },
+      {
+        "hex": "#FEFEFF",
+        "ratio": 0.0268
+      }
+    ]
+  },
+  {
+    "code": "tz",
+    "name": "Tanzania, the United Republic of",
+    "colors": [
+      {
+        "hex": "#000000",
+        "ratio": 0.2995
+      },
+      {
+        "hex": "#1EB53A",
+        "ratio": 0.2959
+      },
+      {
+        "hex": "#00A3DD",
+        "ratio": 0.294
+      },
+      {
+        "hex": "#FCD116",
+        "ratio": 0.1105
+      }
+    ]
+  },
+  {
+    "code": "ua",
+    "name": "Ukraine",
+    "colors": [
+      {
+        "hex": "#0057B7",
+        "ratio": 0.5025
+      },
+      {
+        "hex": "#FFD700",
+        "ratio": 0.4975
+      }
+    ]
+  },
+  {
+    "code": "ug",
+    "name": "Uganda",
+    "colors": [
+      {
+        "hex": "#FCDC04",
+        "ratio": 0.3317
+      },
+      {
+        "hex": "#000000",
+        "ratio": 0.3187
+      },
+      {
+        "hex": "#D90000",
+        "ratio": 0.3139
+      },
+      {
+        "hex": "#FFFFFF",
+        "ratio": 0.0357
+      }
+    ]
+  },
+  {
+    "code": "um",
+    "name": "United States Minor Outlying Islands (the)",
+    "colors": [
+      {
+        "hex": "#B22234",
+        "ratio": 0.4112
+      },
+      {
+        "hex": "#FFFFFF",
+        "ratio": 0.3544
+      },
+      {
+        "hex": "#3C3B6E",
+        "ratio": 0.0986
+      },
+      {
+        "hex": "#38376B",
+        "ratio": 0.0345
+      },
+      {
+        "hex": "#3F3E70",
+        "ratio": 0.0342
+      },
+      {
+        "hex": "#F4E0E2",
+        "ratio": 0.0159
+      },
+      {
+        "hex": "#EDCDD1",
+        "ratio": 0.0128
+      },
+      {
+        "hex": "#D68993",
+        "ratio": 0.0128
+      },
+      {
+        "hex": "#FAEFF1",
+        "ratio": 0.0127
+      },
+      {
+        "hex": "#CA6673",
+        "ratio": 0.0127
+      }
+    ]
+  },
+  {
+    "code": "us",
+    "name": "United States of America (the)",
+    "colors": [
+      {
+        "hex": "#B22234",
+        "ratio": 0.4112
+      },
+      {
+        "hex": "#FFFFFF",
+        "ratio": 0.3544
+      },
+      {
+        "hex": "#3C3B6E",
+        "ratio": 0.0986
+      },
+      {
+        "hex": "#38376B",
+        "ratio": 0.0345
+      },
+      {
+        "hex": "#3F3E70",
+        "ratio": 0.0342
+      },
+      {
+        "hex": "#F4E0E2",
+        "ratio": 0.0159
+      },
+      {
+        "hex": "#EDCDD1",
+        "ratio": 0.0128
+      },
+      {
+        "hex": "#D68993",
+        "ratio": 0.0128
+      },
+      {
+        "hex": "#FAEFF1",
+        "ratio": 0.0127
+      },
+      {
+        "hex": "#CA6673",
+        "ratio": 0.0127
+      }
+    ]
+  },
+  {
+    "code": "uy",
+    "name": "Uruguay",
+    "colors": [
+      {
+        "hex": "#FFFFFF",
+        "ratio": 0.5806
+      },
+      {
+        "hex": "#0038A8",
+        "ratio": 0.3558
+      },
+      {
+        "hex": "#7190CF",
+        "ratio": 0.0129
+      },
+      {
+        "hex": "#E3E9F5",
+        "ratio": 0.0129
+      },
+      {
+        "hex": "#C6D3EC",
+        "ratio": 0.0127
+      },
+      {
+        "hex": "#547AC5",
+        "ratio": 0.0127
+      },
+      {
+        "hex": "#7F4301",
+        "ratio": 0.0123
+      }
+    ]
+  },
+  {
+    "code": "uz",
+    "name": "Uzbekistan",
+    "colors": [
+      {
+        "hex": "#1EB53A",
+        "ratio": 0.3257
+      },
+      {
+        "hex": "#FFFFFF",
+        "ratio": 0.3224
+      },
+      {
+        "hex": "#0099B5",
+        "ratio": 0.3053
+      },
+      {
+        "hex": "#CE1126",
+        "ratio": 0.031
+      },
+      {
+        "hex": "#F4CCD0",
+        "ratio": 0.0155
+      }
+    ]
+  },
+  {
+    "code": "va",
+    "name": "Holy See (the)",
+    "colors": [
+      {
+        "hex": "#FFE000",
+        "ratio": 0.5441
+      },
+      {
+        "hex": "#FFFFFF",
+        "ratio": 0.4559
+      }
+    ]
+  },
+  {
+    "code": "vc",
+    "name": "Saint Vincent and the Grenadines",
+    "colors": [
+      {
+        "hex": "#FCD022",
+        "ratio": 0.4305
+      },
+      {
+        "hex": "#007C2E",
+        "ratio": 0.3168
+      },
+      {
+        "hex": "#002674",
+        "ratio": 0.2528
+      }
+    ]
+  },
+  {
+    "code": "ve",
+    "name": "Venezuela (Bolivarian Republic of)",
+    "colors": [
+      {
+        "hex": "#FFCC00",
+        "ratio": 0.3417
+      },
+      {
+        "hex": "#CF142B",
+        "ratio": 0.3417
+      },
+      {
+        "hex": "#00247D",
+        "ratio": 0.3166
+      }
+    ]
+  },
+  {
+    "code": "vg",
+    "name": "Virgin Islands (British)",
+    "colors": [
+      {
+        "hex": "#012169",
+        "ratio": 0.7992
+      },
+      {
+        "hex": "#FEFEFE",
+        "ratio": 0.0846
+      },
+      {
+        "hex": "#C8102E",
+        "ratio": 0.0818
+      },
+      {
+        "hex": "#016129",
+        "ratio": 0.0344
+      }
+    ]
+  },
+  {
+    "code": "vi",
+    "name": "Virgin Islands (U.S.)",
+    "colors": [
+      {
+        "hex": "#FFFFFF",
+        "ratio": 0.7828
+      },
+      {
+        "hex": "#F4C53D",
+        "ratio": 0.1219
+      },
+      {
+        "hex": "#162667",
+        "ratio": 0.0286
+      },
+      {
+        "hex": "#0080C5",
+        "ratio": 0.0245
+      },
+      {
+        "hex": "#816921",
+        "ratio": 0.016
+      },
+      {
+        "hex": "#A60032",
+        "ratio": 0.0138
+      },
+      {
+        "hex": "#E7BB3A",
+        "ratio": 0.0123
+      }
+    ]
+  },
+  {
+    "code": "vn",
+    "name": "Viet Nam",
+    "colors": [
+      {
+        "hex": "#DA251D",
+        "ratio": 0.9371
+      },
+      {
+        "hex": "#FFFF00",
+        "ratio": 0.0629
+      }
+    ]
+  },
+  {
+    "code": "vu",
+    "name": "Vanuatu",
+    "colors": [
+      {
+        "hex": "#009543",
+        "ratio": 0.3234
+      },
+      {
+        "hex": "#D21034",
+        "ratio": 0.3233
+      },
+      {
+        "hex": "#000000",
+        "ratio": 0.2607
+      },
+      {
+        "hex": "#FDCE12",
+        "ratio": 0.0927
+      }
+    ]
+  },
+  {
+    "code": "wf",
+    "name": "Wallis and Futuna",
+    "colors": [
+      {
+        "hex": "#ED2939",
+        "ratio": 0.8629
+      },
+      {
+        "hex": "#FFFFFF",
+        "ratio": 0.0868
+      },
+      {
+        "hex": "#002395",
+        "ratio": 0.0502
+      }
+    ]
+  },
+  {
+    "code": "ws",
+    "name": "Samoa",
+    "colors": [
+      {
+        "hex": "#CE1126",
+        "ratio": 0.7644
+      },
+      {
+        "hex": "#002B7F",
+        "ratio": 0.2356
+      }
+    ]
+  },
+  {
+    "code": "ye",
+    "name": "Yemen",
+    "colors": [
+      {
+        "hex": "#000000",
+        "ratio": 0.3381
+      },
+      {
+        "hex": "#CE1126",
+        "ratio": 0.3347
+      },
+      {
+        "hex": "#FFFFFF",
+        "ratio": 0.3272
+      }
+    ]
+  },
+  {
+    "code": "yt",
+    "name": "Mayotte",
+    "colors": [
+      {
+        "hex": "#FFFFFF",
+        "ratio": 0.335
+      },
+      {
+        "hex": "#EC1920",
+        "ratio": 0.335
+      },
+      {
+        "hex": "#051440",
+        "ratio": 0.3299
+      }
+    ]
+  },
+  {
+    "code": "za",
+    "name": "South Africa",
+    "colors": [
+      {
+        "hex": "#007749",
+        "ratio": 0.3051
+      },
+      {
+        "hex": "#001489",
+        "ratio": 0.2161
+      },
+      {
+        "hex": "#E03C31",
+        "ratio": 0.2145
+      },
+      {
+        "hex": "#FFFFFF",
+        "ratio": 0.1136
+      },
+      {
+        "hex": "#000000",
+        "ratio": 0.0913
+      },
+      {
+        "hex": "#FFB81C",
+        "ratio": 0.0491
+      },
+      {
+        "hex": "#32916C",
+        "ratio": 0.0105
+      }
+    ]
+  },
+  {
+    "code": "zm",
+    "name": "Zambia",
+    "colors": [
+      {
+        "hex": "#198A00",
+        "ratio": 0.7651
+      },
+      {
+        "hex": "#EF7D00",
+        "ratio": 0.0829
+      },
+      {
+        "hex": "#DE2010",
+        "ratio": 0.076
+      },
+      {
+        "hex": "#000000",
+        "ratio": 0.076
+      }
+    ]
+  },
+  {
+    "code": "zw",
+    "name": "Zimbabwe",
+    "colors": [
+      {
+        "hex": "#006400",
+        "ratio": 0.2726
+      },
+      {
+        "hex": "#FFD200",
+        "ratio": 0.2507
+      },
+      {
+        "hex": "#D40000",
+        "ratio": 0.2293
+      },
+      {
+        "hex": "#FFFFFF",
+        "ratio": 0.1329
+      },
+      {
+        "hex": "#000000",
+        "ratio": 0.1145
+      }
+    ]
+  }
+]
